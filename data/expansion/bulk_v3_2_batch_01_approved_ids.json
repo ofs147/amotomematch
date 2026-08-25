@@ -1,0 +1,11 @@
+{
+  "batch_id": "bulk_v3_2_batch_01",
+  "prepared_for": "bulk_final_write",
+  "approved_character_ids": [
+    "C032", "C033", "C034", "C035", "C036",
+    "C037", "C038", "C039", "C040", "C041",
+    "C042", "C043", "C044", "C045", "C046",
+    "C047", "C048", "C049", "C050", "C051"
+  ],
+  "blocked_character_ids": []
+}

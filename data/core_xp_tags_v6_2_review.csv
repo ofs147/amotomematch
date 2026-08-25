@@ -1,0 +1,437 @@
+character_id,character_name,game,current_tag_1,current_tag_2,current_tag_3,alt_tag_1,alt_tag_2,alt_tag_3,confidence,review_reason,status,review_action,review_note
+C001,柳爱时,Collar×Malice,成熟可靠,温柔,稳定恋爱,强守护,理性沉稳,并肩恋爱,A_PENDING_HUMAN_CONFIRMATION,ANCHOR_AWAITING_HUMAN_CONFIRMATION;GENERIC_TAG_DOMINANCE,HUMAN_CALIBRATED,KEEP,human_calibrated_anchor=true
+C002,冈崎契,Collar×Malice,反差萌,天然,高拉扯,强守护,高奉献,年上感,B,,AUTO_MIGRATION_READY,,
+C003,笹塚尊,Collar×Malice,毒舌,理性沉稳,高拉扯,欢喜冤家,精英感,傲娇,B,,AUTO_MIGRATION_READY,,
+C004,榎本峰雄,Collar×Malice,阳光,热血,直球主动,陪伴成长,少年感,并肩恋爱,A_PENDING_HUMAN_CONFIRMATION,ANCHOR_AWAITING_HUMAN_CONFIRMATION;TEMPLATE_COMBINATION_CHECK,HUMAN_CALIBRATED,KEEP,human_calibrated_anchor=true
+C005,杨,虔诚之花的晚钟,危险系,疯感,高拉扯,刺激型,腹黑,色气,A_PENDING_HUMAN_CONFIRMATION,ANCHOR_AWAITING_HUMAN_CONFIRMATION,HUMAN_CALIBRATED,KEEP,human_calibrated_anchor=true
+C006,尼古拉·法兰切斯卡,虔诚之花的晚钟,危险系,神秘系,强占有,高拉扯,高奉献,成熟可靠,B,,AUTO_MIGRATION_READY,,
+C007,吉尔伯特·雷德福,虔诚之花的晚钟,色气,强守护,稳定恋爱,并肩恋爱,年上感,成熟可靠,B_REVIEW,COMPOSITION_EXCEPTION,AUTO_APPROVED_BY_CALIBRATION,AUTO_APPROVED_BY_CALIBRATION,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE
+C009,伊夫,终远的威尔修,成熟可靠,救赎感,陪伴成长,强守护,高奉献,并肩恋爱,B_REVIEW,COMPOSITION_EXCEPTION,AUTO_APPROVED_BY_CALIBRATION,AUTO_APPROVED_BY_CALIBRATION,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE
+C010,阿道夫,终远的威尔修,成熟可靠,陪伴成长,强守护,高奉献,低表达,年上感,B_REVIEW,COMPOSITION_EXCEPTION,AUTO_APPROVED_BY_CALIBRATION,AUTO_APPROVED_BY_CALIBRATION,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE
+C011,鴻上滉,ニル・アドミラリの天秤,冷感,神秘系,慢热,危险系,救赎感,低表达,A_PENDING_HUMAN_CONFIRMATION,ANCHOR_AWAITING_HUMAN_CONFIRMATION,HUMAN_CALIBRATED,KEEP,human_calibrated_anchor=true
+C012,Crius Castlerock,even if TEMPEST,成熟可靠,腹黑,高依赖,强守护,并肩恋爱,年上感,A_PENDING_HUMAN_CONFIRMATION,ANCHOR_AWAITING_HUMAN_CONFIRMATION,HUMAN_CALIBRATED,KEEP,human_calibrated_anchor=true
+C013,响,9 R.I.P.,非人感,高拉扯,高依赖,救赎感,高情绪浓度,刺激型,B_REVIEW,COMPOSITION_EXCEPTION,HUMAN_CALIBRATED,KEEP,CALIBRATION_REVIEW_KEEP
+C014,Impey Barbicane,Code:Realize,热血,阳光,陪伴成长,天然,精英感,并肩恋爱,B,,AUTO_MIGRATION_READY,,
+C015,Tyril I Lister,even if TEMPEST,毒舌,傲娇,高拉扯,低表达,并肩恋爱,成熟可靠,B,,AUTO_MIGRATION_READY,,
+C016,真島芳樹,蝶之毒 華之鎖,反差萌,腹黑,高情绪浓度,刺激型,理性沉稳,成熟可靠,B,,AUTO_MIGRATION_READY,,
+C017,红华,9 R.I.P.,非人感,温柔,陪伴成长,高奉献,并肩恋爱,成熟可靠,B,,AUTO_MIGRATION_READY,,
+C018,Kaize Ozma,OVER REQUIEMZ,反差萌,神秘系,宿命感,高奉献,低表达,温柔,B,,AUTO_MIGRATION_READY,,
+C019,缘,奥林匹亚的晚宴,腹黑,色气,高拉扯,宿命感,高情绪浓度,年上感,B,,AUTO_MIGRATION_READY,,
+C020,Shin,AMNESIA,毒舌,理性沉稳,直球主动,陪伴成长,傲娇,少年感,B,,AUTO_MIGRATION_READY,,
+C021,Vilio,绚烂传说马戏团,非人感,阳光,宿命感,陪伴成长,高奉献,天然,B,,AUTO_MIGRATION_READY,,
+C022,光森壱哉,百密一疏少女心,脆弱感,高拉扯,直球主动,高依赖,高情绪浓度,年上感,B_REVIEW,COMPOSITION_EXCEPTION,HUMAN_CALIBRATED,KEEP,CALIBRATION_REVIEW_KEEP
+C023,淡雪,璃梦泡影之世外浮城,理性沉稳,成熟可靠,陪伴成长,刺激型,慢热,高奉献,B,,AUTO_MIGRATION_READY,,
+C024,Allan Melville,Cupid Parasite,腹黑,色气,唯一例外,宿命感,高情绪浓度,年上感,B,,AUTO_MIGRATION_READY,,
+C025,平重衡,毘卢遮那战姬,疯感,危险系,强占有,高拉扯,高情绪浓度,刺激型,B,,AUTO_MIGRATION_READY,,
+C026,YOFY,SympathyKiss,少年感,控制型,强占有,强嫉妒,高依赖,高情绪浓度,B_REVIEW,COMPOSITION_EXCEPTION,HUMAN_CALIBRATED,KEEP,CALIBRATION_REVIEW_KEEP
+C027,终夜,CLOCK ZERO,神秘系,宿命感,强守护,高奉献,低表达,成熟可靠,B_REVIEW,COMPOSITION_EXCEPTION,AUTO_APPROVED_BY_CALIBRATION,AUTO_APPROVED_BY_CALIBRATION,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE
+C028,赫泽尔,灾厄黑龙与谎言公主,危险系,非人感,高拉扯,高情绪浓度,刺激型,高奉献,B,,AUTO_MIGRATION_READY,,
+C029,鹭泽累,冷然之天秤,理性沉稳,神秘系,高拉扯,高依赖,高情绪浓度,温柔,B,,AUTO_MIGRATION_READY,,
+C030,小菊,天狱乱斗,阳光,陪伴成长,强守护,高奉献,并肩恋爱,成熟可靠,B_REVIEW,COMPOSITION_EXCEPTION,AUTO_APPROVED_BY_CALIBRATION,AUTO_APPROVED_BY_CALIBRATION,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE
+C031,濑见季继,第六妖守,腹黑,成熟可靠,陪伴成长,稳定恋爱,并肩恋爱,年上感,B,,AUTO_MIGRATION_READY,,
+C032,Mathis Claude,终远的威尔修,脆弱感,少年感,救赎感,慢热,高奉献,低表达,B,,AUTO_MIGRATION_READY,,
+C033,Toma,AMNESIA: Memories,反差萌,危险系,高依赖,救赎感,高情绪浓度,年上感,B,,AUTO_MIGRATION_READY,,
+C034,Kuroba,奥林匹亚的晚宴,成熟可靠,阳光,陪伴成长,稳定恋爱,并肩恋爱,年上感,B,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→成熟可靠; strict heat threshold
+C035,Victor Frankenstein,Code:Realize ～创世的姬君～,理性沉稳,温柔,稳定恋爱,并肩恋爱,年上感,成熟可靠,B_REVIEW,GENERIC_TAG_DOMINANCE,HUMAN_CALIBRATED,KEEP,CALIBRATION_REVIEW_KEEP
+C036,Noritsune Taira,毘卢遮那战姬 ～源平飞花梦想～,少年感,直球主动,刺激型,高奉献,并肩恋爱,,B_REVIEW,COMPOSITION_EXCEPTION,AUTO_APPROVED_BY_CALIBRATION,AUTO_APPROVED_BY_CALIBRATION,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE
+C037,Zenn Sorfield,even if TEMPEST,温柔,年上感,陪伴成长,强守护,并肩恋爱,成熟可靠,B_REVIEW,GENERIC_TAG_DOMINANCE,HUMAN_CALIBRATED,KEEP,CALIBRATION_REVIEW_KEEP
+C038,Lucas Proust,终远的威尔修,危险系,温柔,高拉扯,救赎感,高情绪浓度,年上感,B,,AUTO_MIGRATION_READY,,
+C039,Ukyo,AMNESIA: Memories,反差萌,危险系,高拉扯,救赎感,神秘系,年上感,B,,AUTO_MIGRATION_READY,,
+C040,Ryuki F. Keisaiin,Cupid Parasite,反差萌,毒舌,欢喜冤家,慢热,傲娇,少年感,B,,AUTO_MIGRATION_READY,,
+C041,Shelby Snail,Cupid Parasite,理性沉稳,成熟可靠,慢热,稳定恋爱,低表达,年上感,B,,AUTO_MIGRATION_READY,,
+C042,Dante Falzone,虔诚之花的晚钟,冷感,成熟可靠,强守护,高奉献,低表达,年上感,B,,AUTO_MIGRATION_READY,,
+C043,Saint-Germain,Code:Realize ～创世的姬君～,腹黑,神秘系,救赎感,高情绪浓度,低表达,成熟可靠,B,,AUTO_MIGRATION_READY,,
+C044,Tokisada Amakusa,奥林匹亚的晚宴,少年感,阳光,直球主动,高情绪浓度,高奉献,少年感,B_REVIEW,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→少年感; strict heat threshold
+C045,Gill Lovecraft,Cupid Parasite,温柔,年上感,强嫉妒,高依赖,陪伴成长,高奉献,B_REVIEW,GENERIC_TAG_DOMINANCE,HUMAN_CALIBRATED,KEEP,CALIBRATION_REVIEW_KEEP
+C046,Lucien Neuschburn,even if TEMPEST,少年感,温柔,高奉献,低表达,成熟可靠,,B,,AUTO_MIGRATION_READY,,
+C047,Scien Brofiise,终远的威尔修,冷感,理性沉稳,低表达,精英感,并肩恋爱,年上感,B,,AUTO_MIGRATION_READY,,
+C048,Abraham Van Helsing,Code:Realize ～创世的姬君～,冷感,成熟可靠,高拉扯,救赎感,低表达,并肩恋爱,B,,AUTO_MIGRATION_READY,,
+C049,Tomomori Taira,毘卢遮那战姬 ～源平飞花梦想～,危险系,腹黑,高拉扯,高情绪浓度,刺激型,年上感,B,,AUTO_MIGRATION_READY,,
+C050,Ikki,AMNESIA: Memories,色气,直球主动,慢热,高奉献,稳定恋爱,年上感,B_REVIEW,COMPOSITION_EXCEPTION,AUTO_APPROVED_BY_CALIBRATION,AUTO_APPROVED_BY_CALIBRATION,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE
+C051,Ankou,终远的威尔修,冷感,神秘系,救赎感,高情绪浓度,年上感,成熟可靠,B,,AUTO_MIGRATION_READY,,
+C052,Raul Aconite,Cupid Parasite,热血,阳光,直球主动,色气,稳定恋爱,年上感,B_REVIEW,TEMPLATE_COMBINATION_CHECK,HUMAN_CALIBRATED,KEEP,CALIBRATION_REVIEW_KEEP
+C053,Riku,奥林匹亚的晚宴,冷感,傲娇,欢喜冤家,慢热,低表达,成熟可靠,B,,AUTO_MIGRATION_READY,,
+C054,Shion Mayuzumi,Variable Barricade,理性沉稳,稳定恋爱,,低表达,年上感,成熟可靠,B_REVIEW,COMPOSITION_EXCEPTION,AUTO_APPROVED_BY_CALIBRATION,AUTO_APPROVED_BY_CALIBRATION,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE
+C055,Nayuta Yagami,Variable Barricade,天然,少年感,直球主动,高依赖,温柔,,B,,AUTO_MIGRATION_READY,,
+C056,Taiga Isurugi,Variable Barricade,毒舌,强者感,直球主动,欢喜冤家,稳定恋爱,年上感,B,,AUTO_MIGRATION_READY,,
+C057,Suzu Orimaki,Jack Jeanne,阳光,少年感,直球主动,陪伴成长,高奉献,温柔,B,,AUTO_MIGRATION_READY,,
+C058,Kai Mutsumi,Jack Jeanne,温柔,成熟可靠,陪伴成长,慢热,低表达,并肩恋爱,B_REVIEW,GENERIC_TAG_DOMINANCE,HUMAN_CALIBRATED,KEEP,CALIBRATION_REVIEW_KEEP
+C059,Sarafumi Takashina,Jack Jeanne,理性沉稳,精英感,陪伴成长,并肩恋爱,成熟可靠,,B,,AUTO_MIGRATION_READY,,
+C060,Hira,第六妖守,非人感,冷感,慢热,理性沉稳,低表达,年上感,B,,AUTO_MIGRATION_READY,,
+C061,Shiratsuki,第六妖守,非人感,天然,直球主动,陪伴成长,少年感,,B,,AUTO_MIGRATION_READY,,
+C062,Noel Valmore,Wand of Fortune R,傲娇,少年感,欢喜冤家,慢热,高奉献,,B,,AUTO_MIGRATION_READY,,
+C063,Est Rinaudo,Wand of Fortune R,毒舌,冷感,救赎感,理性沉稳,精英感,低表达,B,,AUTO_MIGRATION_READY,,
+C064,Alvaro Garay,Wand of Fortune R,危险系,腹黑,唯一例外,色气,并肩恋爱,年上感,B,,AUTO_MIGRATION_READY,,
+C065,Cinderella,大正对称爱丽丝 episode I,傲娇,欢喜冤家,稳定恋爱,年上感,,,B_REVIEW,COMPOSITION_EXCEPTION,AUTO_APPROVED_BY_CALIBRATION,AUTO_APPROVED_BY_CALIBRATION,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE
+C066,Red Riding Hood,大正对称爱丽丝 episode I,少年感,慢热,高奉献,低表达,年上感,成熟可靠,B_REVIEW,COMPOSITION_EXCEPTION,AUTO_APPROVED_BY_CALIBRATION,AUTO_APPROVED_BY_CALIBRATION,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE
+C067,Shogo Ukai,冷然之天秤 帝都幻惑绮谭,傲娇,少年感,直球主动,陪伴成长,欢喜冤家,,B,,AUTO_MIGRATION_READY,,
+C068,Shizuru Migiwa,冷然之天秤 帝都幻惑绮谭,理性沉稳,色气,直球主动,稳定恋爱,年上感,,B,,AUTO_MIGRATION_READY,,
+C069,Himeutsugi,花合朔 -姬空木篇-,危险系,腹黑,高拉扯,高情绪浓度,神秘系,温柔,B,,AUTO_MIGRATION_READY,,
+C070,Mizuchi,花合朔 -蛟篇-,冷感,慢热,高奉献,高拉扯,低表达,成熟可靠,B_REVIEW,COMPOSITION_EXCEPTION,AUTO_APPROVED_BY_CALIBRATION,AUTO_APPROVED_BY_CALIBRATION,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE
+C071,Riichiro Kaga,CLOCK ZERO ～终焉之一秒～,冷感,理性沉稳,慢热,傲娇,少年感,低表达,B,,AUTO_MIGRATION_READY,,
+C072,Madoka Hanabusa,CLOCK ZERO ～终焉之一秒～,腹黑,精英感,高拉扯,宿命感,神秘系,少年感,B,,AUTO_MIGRATION_READY,,
+C073,Toranosuke Saionji,CLOCK ZERO ～终焉之一秒～,强者感,少年感,直球主动,陪伴成长,欢喜冤家,,B,,AUTO_MIGRATION_READY,,
+C074,Shunsou Hishida,明治东京恋伽,冷感,少年感,陪伴成长,慢热,低表达,,B,,AUTO_MIGRATION_READY,,
+C075,Ougai Mori,明治东京恋伽,理性沉稳,精英感,直球主动,稳定恋爱,年上感,成熟可靠,B,,AUTO_MIGRATION_READY,,
+C076,Yakumo Koizumi,明治东京恋伽,温柔,阳光,直球主动,稳定恋爱,温柔,年上感,B_REVIEW,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→温柔; strict heat threshold
+C077,Mitsuki Saotome,SympathyKiss 共鸣之吻,理性沉稳,成熟可靠,稳定恋爱,低表达,并肩恋爱,,B_REVIEW,GENERIC_TAG_DOMINANCE,HUMAN_CALIBRATED,KEEP,CALIBRATION_REVIEW_KEEP
+C078,Nori Tainaka,SympathyKiss 共鸣之吻,阳光,温柔,直球主动,稳定恋爱,年上感,,B,,AUTO_MIGRATION_READY,,
+C079,Arsène Lupin,Code:Realize ～创世的姬君～,精英感,阳光,陪伴成长,天然,精英感,并肩恋爱,B,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→精英感; strict heat threshold
+C080,Kageyuki Shiraishi,Collar×Malice,腹黑,神秘系,救赎感,高情绪浓度,低表达,成熟可靠,B,,AUTO_MIGRATION_READY,,
+C081,Peter Flage,共生丘比特,反差萌,神秘系,高奉献,高拉扯,年上感,,B,,AUTO_MIGRATION_READY,,
+C082,Akaza,奥林匹亚的晚宴,冷感,成熟可靠,强守护,高奉献,低表达,年上感,B,,AUTO_MIGRATION_READY,,
+C083,Himuka,奥林匹亚的晚宴,脆弱感,少年感,救赎感,慢热,高奉献,低表达,B,,AUTO_MIGRATION_READY,,
+C084,Orlok,虔诚之花的晚钟 -ricordo-,脆弱感,少年感,救赎感,慢热,高奉献,低表达,B,,AUTO_MIGRATION_READY,,
+C085,Koyo Akizuki,9 R.I.P.,温柔,成熟可靠,陪伴成长,强守护,并肩恋爱,年上感,B_REVIEW,GENERIC_TAG_DOMINANCE,HUMAN_CALIBRATED,KEEP,CALIBRATION_REVIEW_KEEP
+C086,Sena Mizukagami,9 R.I.P.,少年感,温柔,直球主动,高依赖,高情绪浓度,,B,,AUTO_MIGRATION_READY,,
+C087,Minami,9 R.I.P.,疯感,危险系,高拉扯,高情绪浓度,刺激型,高奉献,B,,AUTO_MIGRATION_READY,,
+C088,Seiya,9 R.I.P.,冷感,成熟可靠,强守护,高奉献,低表达,年上感,B,,AUTO_MIGRATION_READY,,
+C089,Yukimaro,9 R.I.P.,阳光,非人感,宿命感,直球主动,陪伴成长,高奉献,B,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→阳光; strict heat threshold
+C090,Koharu,9 R.I.P.,非人感,温柔,陪伴成长,高奉献,并肩恋爱,成熟可靠,B,,AUTO_MIGRATION_READY,,
+C091,Kent,失忆症,理性沉稳,成熟可靠,慢热,稳定恋爱,低表达,年上感,B,,AUTO_MIGRATION_READY,,
+C092,Henri Lambert,虔诚之花的晚钟 -Episodio1926-,神秘系,脆弱感,救赎感,,,,HUMAN_CONFIRMED,,HUMAN_CALIBRATED,KEEP,v6.6B.1 identity index append
+C093,Merenice Levin,共生丘比特 -Sweet & Spicy Darling.-,阳光,反差萌,直球主动,,,,HUMAN_CONFIRMED,,HUMAN_CALIBRATED,KEEP,v6.6B.1 identity index append
+C094,Zafora,绚烂传说马戏团 -A Fanfare!-,毒舌,理性沉稳,欢喜冤家,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C095,Paschalia,绚烂传说马戏团 -A Fanfare!-,温柔,天然,治愈系,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C096,Ion,绚烂传说马戏团 -A Fanfare!-,强者感,温柔,强守护,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C097,Radie,绚烂传说马戏团 -A Fanfare!-,非人感,成熟可靠,陪伴成长,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C105,明瀬京也,CharadeManiacs,阳光,成熟可靠,直球主动,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→成熟可靠; strict heat threshold
+C106,萬城朋世,CharadeManiacs,冷感,少年感,强占有,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C107,茅ヶ裂守,CharadeManiacs,温柔,成熟可靠,治愈系,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C108,陀宰明,CharadeManiacs,冷感,脆弱感,慢热,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C109,獲端圭,CharadeManiacs,毒舌,傲娇,高拉扯,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C110,双巳良一,CharadeManiacs,成熟可靠,温柔,稳定恋爱,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C111,凝部奏汰,CharadeManiacs,天然,少年感,直球主动,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C112,廃寺拓海,CharadeManiacs,冷感,神秘系,高拉扯,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C113,射落水樹,CharadeManiacs,色气,神秘系,刺激型,,,,HUMAN_CONFIRMED,,HUMAN_CALIBRATED,KEEP,v6.6B.1 identity index append
+C114,フェイ,茉莉花之炯 天命胤异传,阳光,成熟可靠,宿命感,,,,A,热血未达到峰雄式高外放阈值,HUMAN_CALIBRATED,REPLACE,热血→成熟可靠；直球主动→宿命感
+C115,ルヲ,茉莉花之炯 天命胤异传,温柔,理性沉稳,慢热,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C116,ゼベネラ,茉莉花之炯 天命胤异传,危险系,腹黑,高拉扯,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C117,玖 燕來,茉莉花之炯 天命胤异传,成熟可靠,强者感,强守护,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C118,胡 青凛,茉莉花之炯 天命胤异传,冷感,精英感,慢热,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C119,カルマ,茉莉花之炯 天命胤异传,神秘系,非人感,宿命感,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C120,Alfred Cresswell,米斯托尼亚的翅望,成熟可靠,温柔,稳定恋爱,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C121,Lucas Sullivan,米斯托尼亚的翅望,阳光,少年感,直球主动,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C122,Ascot Lindel,米斯托尼亚的翅望,毒舌,精英感,高拉扯,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C123,John,米斯托尼亚的翅望,冷感,强者感,慢热,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C124,Linus Ward,米斯托尼亚的翅望,色气,腹黑,高拉扯,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C125,Edward Bernstein,米斯托尼亚的翅望,成熟可靠,神秘系,宿命感,,,,HUMAN_CONFIRMED,,HUMAN_CALIBRATED,KEEP,v6.6B.1 identity index append
+C126,紫鳶,Cendrillon palikA,冷感,精英感,慢热,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C127,憂漣,Cendrillon palikA,温柔,脆弱感,治愈系,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C128,廻螺,Cendrillon palikA,毒舌,傲娇,欢喜冤家,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C129,黒禰,Cendrillon palikA,危险系,疯感,刺激型,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C130,綸燈,Cendrillon palikA,成熟可靠,温柔,稳定恋爱,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C131,泣虎,Cendrillon palikA,阳光,少年感,直球主动,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C132,歌紫歌,Cendrillon palikA,神秘系,非人感,宿命感,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C133,劉備,十三支演义 偃月三国传 1・2,少年感,温柔,陪伴成长,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C134,張飛,十三支演义 偃月三国传 1・2,热血,阳光,直球主动,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C135,趙雲,十三支演义 偃月三国传 1・2,成熟可靠,强者感,强守护,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C136,曹操,十三支演义 偃月三国传 1・2,精英感,危险系,强占有,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C137,夏侯惇,十三支演义 偃月三国传 1・2,傲娇,强者感,欢喜冤家,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C138,張遼,十三支演义 偃月三国传 1・2,温柔,天然,治愈系,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C139,細波エース,如果世界上有神明存在的话,冷感,温柔,低表达,,,,A,隐藏热情不等于外放热血,HUMAN_CALIBRATED,REPLACE,阳光→冷感；热血→温柔；直球主动→低表达
+C140,弓倉ネジ,如果世界上有神明存在的话,毒舌,理性沉稳,慢热,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C141,神里キョウ,如果世界上有神明存在的话,冷感,神秘系,高拉扯,,,,HUMAN_CONFIRMED,,HUMAN_CALIBRATED,KEEP,v6.6B.1 identity index append
+C142,指乃シュリ,如果世界上有神明存在的话,温柔,脆弱感,救赎感,,,,HUMAN_CONFIRMED,,HUMAN_CALIBRATED,KEEP,v6.6B.1 identity index append
+C163,Limbo Fitzgerald,BUSTAFELLOWS,阳光,成熟可靠,直球主动,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C164,Shu,BUSTAFELLOWS,冷感,强者感,慢热,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C165,Helvetica,BUSTAFELLOWS,色气,精英感,直球主动,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C166,Mozu,BUSTAFELLOWS,冷感,天然,慢热,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C167,Scarecrow,BUSTAFELLOWS,天然,少年感,陪伴成长,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C186,迦具土ヒノ,7'scarlet,阳光,成熟可靠,强守护,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→阳光; strict heat threshold
+C187,甘梨イソラ,7'scarlet,阳光,少年感,直球主动,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C188,櫛奈雫トア,7'scarlet,天然,脆弱感,治愈系,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C189,建比良ソウスケ,7'scarlet,理性沉稳,精英感,慢热,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C190,叢雲ユヅキ,7'scarlet,成熟可靠,冷感,强守护,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C191,緋影,黑蝶幻境,冷感,神秘系,高拉扯,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C192,鴉翅,黑蝶幻境,阳光,腹黑,直球主动,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C193,山都,黑蝶幻境,傲娇,少年感,欢喜冤家,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→少年感; strict heat threshold
+C194,紋白,黑蝶幻境,温柔,脆弱感,治愈系,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C195,鉤翅,黑蝶幻境,温柔,成熟可靠,强守护,,,,HUMAN_CONFIRMED,,HUMAN_CALIBRATED,KEEP,v6.6B.1 identity index append
+C196,ラヴァン,灰鹰幻境,阳光,少年感,陪伴成长,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C197,レビ,灰鹰幻境,成熟可靠,温柔,强守护,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C198,ルーガス,灰鹰幻境,冷感,强者感,慢热,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C199,ヒュー,灰鹰幻境,神秘系,色气,高拉扯,,,,HUMAN_CONFIRMED,,HUMAN_CALIBRATED,KEEP,v6.6B.1 identity index append
+C319,斯波純一,蝶之毒 华之锁,色气,精英感,直球主动,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C320,野宮瑞人,蝶之毒 华之锁,色气,脆弱感,高依赖,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C321,藤田均,蝶之毒 华之锁,温柔,成熟可靠,高奉献,,,,A,,AUTO_PASS,,v6.6B.1 identity index append
+C322,尾崎秀雄,蝶之毒 华之锁,傲娇,少年感,欢喜冤家,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→少年感; strict heat threshold
+C098,Benkei Musashibo,毘卢遮那战姬 ～一树之风～,成熟可靠,温柔,强守护,,,,A,,AUTO_PASS,,v6.6C identity index append
+C099,Shungen,毘卢遮那战姬 ～一树之风～,温柔,少年感,陪伴成长,,,,A,,AUTO_PASS,,v6.6C identity index append
+C100,Yoritomo Minamoto,毘卢遮那战姬 ～一树之风～,冷感,强者感,高拉扯,,,,A,,AUTO_PASS,,v6.6C identity index append
+C101,Tadanobu Sato,毘卢遮那战姬 ～一树之风～,热血,阳光,直球主动,,,,A,,AUTO_PASS,,v6.6C identity index append
+C102,Tsugunobu Sato,毘卢遮那战姬 ～一树之风～,温柔,理性沉稳,高奉献,,,,A,,AUTO_PASS,,v6.6C identity index append
+C154,結賀駆,NORN9 LAST ERA,阳光,腹黑,直球主动,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→腹黑; strict heat threshold
+C155,市ノ瀬千里,NORN9 LAST ERA,冷感,少年感,高依赖,,,,A,,AUTO_PASS,,v6.6C identity index append
+C156,遠矢正宗,NORN9 LAST ERA,成熟可靠,理性沉稳,稳定恋爱,,,,A,,AUTO_PASS,,v6.6C identity index append
+C158,二条朔也,NORN9 LAST ERA,温柔,脆弱感,救赎感,,,,A,,AUTO_PASS,,v6.6C identity index append
+C159,加賀見一月,NORN9 LAST ERA,色气,腹黑,直球主动,,,,A,,AUTO_PASS,,v6.6C identity index append
+C160,宿吏暁人,NORN9 LAST ERA,傲娇,毒舌,欢喜冤家,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→毒舌; strict heat threshold
+C162,乙丸平士,NORN9 LAST ERA,天然,少年感,治愈系,,,,A,,AUTO_PASS,,v6.6C identity index append
+C168,九十九丸,剑为君舞,阳光,少年感,陪伴成长,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→少年感; strict heat threshold
+C169,螢,剑为君舞,冷感,脆弱感,救赎感,,,,A,,AUTO_PASS,,v6.6C identity index append
+C170,黒羽実彰,剑为君舞,成熟可靠,强者感,强守护,,,,A,,AUTO_PASS,,v6.6C identity index append
+C171,縁,剑为君舞,色气,神秘系,高拉扯,,,,A,,AUTO_PASS,,v6.6C identity index append
+C172,鷺原左京,剑为君舞,理性沉稳,精英感,慢热,,,,A,,AUTO_PASS,,v6.6C identity index append
+C174,土方歳三,薄樱鬼 真改,成熟可靠,强者感,高奉献,,,,A,,AUTO_PASS,,v6.6C identity index append
+C175,沖田総司,薄樱鬼 真改,毒舌,脆弱感,高拉扯,,,,A,,AUTO_PASS,,v6.6C identity index append
+C176,斎藤一,薄樱鬼 真改,冷感,强者感,慢热,,,,A,,AUTO_PASS,,v6.6C identity index append
+C177,藤堂平助,薄樱鬼 真改,热血,少年感,陪伴成长,,,,A,,AUTO_PASS,,v6.6C identity index append
+C178,原田左之助,薄樱鬼 真改,阳光,成熟可靠,直球主动,,,,A,,AUTO_PASS,,v6.6C identity index append
+C179,風間千景,薄樱鬼 真改,危险系,强者感,强占有,,,,A,,AUTO_PASS,,v6.6C identity index append
+C180,永倉新八,薄樱鬼 真改,热血,阳光,直球主动,,,,A,,AUTO_PASS,,v6.6C identity index append
+C182,山崎烝,薄樱鬼 真改,温柔,成熟可靠,强守护,,,,A,,AUTO_PASS,,v6.6C identity index append
+C183,伊庭八郎,薄樱鬼 真改,温柔,理性沉稳,高奉献,,,,A,,AUTO_PASS,,v6.6C identity index append
+C184,相馬主計,薄樱鬼 真改,少年感,阳光,陪伴成长,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→阳光; strict heat threshold
+C200,美作燈真,KLAP!!,傲娇,热血,欢喜冤家,,,,A,,AUTO_PASS,,v6.6C identity index append
+C201,周防壮介,KLAP!!,冷感,精英感,慢热,,,,A,,AUTO_PASS,,v6.6C identity index append
+C202,駿河明人,KLAP!!,阳光,少年感,直球主动,,,,A,,AUTO_PASS,,v6.6C identity index append
+C203,カミル＝セッツェリン,KLAP!!,色气,非人感,高拉扯,,,,A,,AUTO_PASS,,v6.6C identity index append
+C204,播磨奏,KLAP!!,温柔,天然,治愈系,,,,A,,AUTO_PASS,,v6.6C identity index append
+C206,ヒロヤ,Period Cube ～鸟笼的阿玛迪斯～,阳光,少年感,陪伴成长,,,,A,,AUTO_PASS,,v6.6C identity index append
+C207,ラディウス,Period Cube ～鸟笼的阿玛迪斯～,强者感,冷感,高拉扯,,,,A,,AUTO_PASS,,v6.6C identity index append
+C208,リベラ,Period Cube ～鸟笼的阿玛迪斯～,温柔,脆弱感,救赎感,,,,A,,AUTO_PASS,,v6.6C identity index append
+C209,アストラム,Period Cube ～鸟笼的阿玛迪斯～,腹黑,色气,强占有,,,,A,,AUTO_PASS,,v6.6C identity index append
+C210,ザイン,Period Cube ～鸟笼的阿玛迪斯～,冷感,神秘系,慢热,,,,A,,AUTO_PASS,,v6.6C identity index append
+C261,Masaomi Asahina,BROTHERS CONFLICT Precious Baby,成熟可靠,温柔,稳定恋爱,,,,A,,AUTO_PASS,,v6.6C identity index append
+C262,Ukyo Asahina,BROTHERS CONFLICT Precious Baby,理性沉稳,精英感,强守护,,,,A,,AUTO_PASS,,v6.6C identity index append
+C263,Kaname Asahina,BROTHERS CONFLICT Precious Baby,色气,年上感,直球主动,,,,A,,AUTO_PASS,,v6.6C identity index append
+C264,Hikaru Asahina,BROTHERS CONFLICT Precious Baby,腹黑,色气,高拉扯,,,,A,,AUTO_PASS,,v6.6C identity index append
+C265,Tsubaki Asahina,BROTHERS CONFLICT Precious Baby,阳光,少年感,直球主动,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→少年感; strict heat threshold
+C266,Azusa Asahina,BROTHERS CONFLICT Precious Baby,温柔,理性沉稳,慢热,,,,A,,AUTO_PASS,,v6.6C identity index append
+C267,Natsume Asahina,BROTHERS CONFLICT Precious Baby,成熟可靠,理性沉稳,强守护,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→理性沉稳; strict heat threshold
+C268,Louis Asahina,BROTHERS CONFLICT Precious Baby,温柔,天然,治愈系,,,,A,,AUTO_PASS,,v6.6C identity index append
+C269,Subaru Asahina,BROTHERS CONFLICT Precious Baby,阳光,少年感,陪伴成长,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→阳光; strict heat threshold
+C270,Iori Asahina,BROTHERS CONFLICT Precious Baby,温柔,精英感,稳定恋爱,,,,A,,AUTO_PASS,,v6.6C identity index append
+C271,Yusuke Asahina,BROTHERS CONFLICT Precious Baby,傲娇,少年感,欢喜冤家,,,,A,,AUTO_PASS,,v6.6C identity index append
+C272,Futo Asahina,BROTHERS CONFLICT Precious Baby,色气,少年感,直球主动,,,,A,,AUTO_PASS,,v6.6C identity index append
+C274,Ayato Sakamaki,DIABOLIK LOVERS GRAND EDITION,傲娇,危险系,强占有,,,,A,,AUTO_PASS,,v6.6C identity index append
+C275,Kanato Sakamaki,DIABOLIK LOVERS GRAND EDITION,疯感,脆弱感,高依赖,,,,A,,AUTO_PASS,,v6.6C identity index append
+C276,Laito Sakamaki,DIABOLIK LOVERS GRAND EDITION,色气,腹黑,刺激型,,,,A,,AUTO_PASS,,v6.6C identity index append
+C277,Shu Sakamaki,DIABOLIK LOVERS GRAND EDITION,冷感,低表达,慢热,,,,A,,AUTO_PASS,,v6.6C identity index append
+C278,Reiji Sakamaki,DIABOLIK LOVERS GRAND EDITION,理性沉稳,控制型,高拉扯,,,,A,,AUTO_PASS,,v6.6C identity index append
+C279,Subaru Sakamaki,DIABOLIK LOVERS GRAND EDITION,傲娇,脆弱感,救赎感,,,,A,,AUTO_PASS,,v6.6C identity index append
+C280,Ruki Mukami,DIABOLIK LOVERS GRAND EDITION,精英感,控制型,强占有,,,,A,,AUTO_PASS,,v6.6C identity index append
+C281,Kou Mukami,DIABOLIK LOVERS GRAND EDITION,阳光,色气,直球主动,,,,A,,AUTO_PASS,,v6.6C identity index append
+C282,Yuma Mukami,DIABOLIK LOVERS GRAND EDITION,傲娇,强者感,欢喜冤家,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→傲娇; strict heat threshold
+C284,Yue,安琪莉可 Luminarise,温柔,成熟可靠,稳定恋爱,,,,A,,AUTO_PASS,,v6.6C identity index append
+C285,Noah,安琪莉可 Luminarise,少年感,阳光,陪伴成长,,,,A,,AUTO_PASS,,v6.6C identity index append
+C286,Vergil,安琪莉可 Luminarise,冷感,精英感,慢热,,,,A,,AUTO_PASS,,v6.6C identity index append
+C287,Kanata,安琪莉可 Luminarise,阳光,少年感,直球主动,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→阳光; strict heat threshold
+C288,Shuri,安琪莉可 Luminarise,理性沉稳,温柔,治愈系,,,,A,,AUTO_PASS,,v6.6C identity index append
+C289,Milan,安琪莉可 Luminarise,色气,腹黑,高拉扯,,,,A,,AUTO_PASS,,v6.6C identity index append
+C290,Xeno,安琪莉可 Luminarise,神秘系,冷感,宿命感,,,,A,,AUTO_PASS,,v6.6C identity index append
+C291,Felix,安琪莉可 Luminarise,成熟可靠,强者感,强守护,,,,A,,AUTO_PASS,,v6.6C identity index append
+C293,真田幸村,遥远时空中7,热血,强者感,直球主动,,,,A,,AUTO_PASS,,v6.6C identity index append
+C294,天野五月,遥远时空中7,温柔,成熟可靠,稳定恋爱,,,,A,,AUTO_PASS,,v6.6C identity index append
+C295,宮本武蔵,遥远时空中7,少年感,阳光,陪伴成长,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→阳光; strict heat threshold
+C296,佐々木大和,遥远时空中7,理性沉稳,精英感,慢热,,,,A,,AUTO_PASS,,v6.6C identity index append
+C297,黒田長政,遥远时空中7,冷感,强者感,高拉扯,,,,A,,AUTO_PASS,,v6.6C identity index append
+C298,直江兼続,遥远时空中7,阳光,热血,直球主动,,,,A,,AUTO_PASS,,v6.6C identity index append
+C299,阿国,遥远时空中7,色气,神秘系,刺激型,,,,A,,AUTO_PASS,,v6.6C identity index append
+C301,風真玲太,心跳回忆 Girl's Side 4th Heart,阳光,成熟可靠,陪伴成长,,,,A,,AUTO_PASS,,v6.6C identity index append
+C302,颯砂希,心跳回忆 Girl's Side 4th Heart,冷感,精英感,慢热,,,,A,,AUTO_PASS,,v6.6C identity index append
+C303,本多行,心跳回忆 Girl's Side 4th Heart,天然,少年感,治愈系,,,,A,,AUTO_PASS,,v6.6C identity index append
+C304,七ツ森実,心跳回忆 Girl's Side 4th Heart,反差萌,色气,高拉扯,,,,A,,AUTO_PASS,,v6.6C identity index append
+C305,柊夜ノ介,心跳回忆 Girl's Side 4th Heart,温柔,理性沉稳,稳定恋爱,,,,A,,AUTO_PASS,,v6.6C identity index append
+C306,氷室一紀,心跳回忆 Girl's Side 4th Heart,冷感,少年感,陪伴成长,,,,A,,AUTO_PASS,,v6.6C identity index append
+C307,御影小次郎,心跳回忆 Girl's Side 4th Heart,成熟可靠,年上感,强守护,,,,A,,AUTO_PASS,,v6.6C identity index append
+C308,白羽大地,心跳回忆 Girl's Side 4th Heart,阳光,少年感,直球主动,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→少年感; strict heat threshold
+C104,Takatsuna Sasaki,毘卢遮那战姬 ～一树之风～,神秘系,腹黑,宿命感,,,,HUMAN_CONFIRMED,V6_6C_1_REVIEWER_FINAL_WRITE,HUMAN_CALIBRATED,KEEP,Reviewer approved proposed tags without change
+C157,吾妻夏彦,NORN9 LAST ERA,冷感,精英感,高拉扯,,,,HUMAN_CONFIRMED,V6_6C_1_REVIEWER_FINAL_WRITE,HUMAN_CALIBRATED,KEEP,Reviewer approved proposed tags without change
+C161,室星ロン,NORN9 LAST ERA,神秘系,非人感,宿命感,,,,HUMAN_CONFIRMED,V6_6C_1_REVIEWER_FINAL_WRITE,HUMAN_CALIBRATED,KEEP,Reviewer approved proposed tags without change
+C173,鈴懸,剑为君舞,温柔,天然,治愈系,,,,HUMAN_CONFIRMED,V6_6C_1_REVIEWER_FINAL_WRITE,HUMAN_CALIBRATED,MANUAL_MODIFICATION,Rejected proposal: 疯感 / 危险系 / 高情绪浓度; approved: 温柔 / 天然 / 治愈系
+C181,山南敬助,薄樱鬼 真改,理性沉稳,神秘系,高拉扯,,,,HUMAN_CONFIRMED,V6_6C_1_REVIEWER_FINAL_WRITE,HUMAN_CALIBRATED,KEEP,Reviewer approved proposed tags without change
+C185,坂本龍馬,薄樱鬼 真改,色气,神秘系,宿命感,,,,HUMAN_CONFIRMED,V6_6C_1_REVIEWER_FINAL_WRITE,HUMAN_CALIBRATED,KEEP,Reviewer approved proposed tags without change
+C205,出雲紫苑,KLAP!!,神秘系,腹黑,刺激型,,,,HUMAN_CONFIRMED,V6_6C_1_REVIEWER_FINAL_WRITE,HUMAN_CALIBRATED,KEEP,Reviewer approved proposed tags without change
+C211,ディメント,Period Cube ～鸟笼的阿玛迪斯～,非人感,危险系,宿命感,,,,HUMAN_CONFIRMED,V6_6C_1_REVIEWER_FINAL_WRITE,HUMAN_CALIBRATED,KEEP,Reviewer approved proposed tags without change
+C273,Wataru Asahina,BROTHERS CONFLICT Precious Baby,天然,少年感,治愈系,,,,HUMAN_CONFIRMED,V6_6C_1_REVIEWER_FINAL_WRITE,HUMAN_CALIBRATED,KEEP,Reviewer approved proposed tags without change
+C283,Azusa Mukami,DIABOLIK LOVERS GRAND EDITION,温柔,脆弱感,高依赖,,,,HUMAN_CONFIRMED,V6_6C_1_REVIEWER_FINAL_WRITE,HUMAN_CALIBRATED,KEEP,Reviewer approved proposed tags without change
+C292,Lorenzo,安琪莉可 Luminarise,危险系,神秘系,高情绪浓度,,,,HUMAN_CONFIRMED,V6_6C_1_REVIEWER_FINAL_WRITE,HUMAN_CALIBRATED,KEEP,Reviewer approved proposed tags without change
+C300,柳生宗矩,遥远时空中7,成熟可靠,神秘系,宿命感,,,,HUMAN_CONFIRMED,V6_6C_1_REVIEWER_FINAL_WRITE,HUMAN_CALIBRATED,KEEP,Reviewer approved proposed tags without change
+C323,海棠鷹斗,CLOCK ZERO ～终焉之一秒～,精英感,疯感,唯一例外,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C324,英央,CLOCK ZERO ～终焉之一秒～,温柔,少年感,陪伴成长,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C325,白田美ツ騎,Jack Jeanne,冷感,脆弱感,治愈系,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C326,世長創司郎,Jack Jeanne,温柔,少年感,陪伴成长,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C327,根地黒門,Jack Jeanne,腹黑,精英感,高拉扯,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C328,Claude Grain,OVER REQUIEMZ,理性沉稳,成熟可靠,强守护,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C329,モリィ・ウッドランド,OVER REQUIEMZ,冷感,脆弱感,救赎感,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C330,ノイル・ベスティア,OVER REQUIEMZ,热血,阳光,并肩恋爱,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C331,Dorothy,OVER REQUIEMZ,神秘系,腹黑,高拉扯,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C332,湊康平,共鸣之吻,冷感,精英感,直球主动,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C333,虎走要司,共鸣之吻,成熟可靠,理性沉稳,强守护,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C334,吉岡緑郎,共鸣之吻,温柔,成熟可靠,稳定恋爱,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C335,碓井修也,共鸣之吻,理性沉稳,神秘系,慢热,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C337,石川五右衛門,天狱乱斗,强者感,成熟可靠,强守护,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C338,村上誉那,天狱乱斗,热血,少年感,直球主动,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C339,東洲斎写楽,天狱乱斗,色气,腹黑,高拉扯,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C340,JacK,天狱乱斗,神秘系,脆弱感,救赎感,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C341,川上音二郎,明治东京恋伽,阳光,色气,直球主动,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C342,泉鏡花,明治东京恋伽,傲娇,少年感,欢喜冤家,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C343,藤田五郎,明治东京恋伽,理性沉稳,成熟可靠,慢热,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C344,岩崎桃介,明治东京恋伽,精英感,理性沉稳,稳定恋爱,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C345,チャーリー,明治东京恋伽,神秘系,色气,宿命感,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C346,诺伯拉,灾厄黑龙与谎言公主,阳光,色气,刺激型,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C347,安德鲁,灾厄黑龙与谎言公主,傲娇,成熟可靠,强守护,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C348,矢代,璃梦泡影之世外浮城,神秘系,腹黑,高拉扯,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C349,帷,璃梦泡影之世外浮城,冷感,强者感,强守护,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C350,依,璃梦泡影之世外浮城,温柔,脆弱感,高依赖,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C351,露草,璃梦泡影之世外浮城,理性沉稳,神秘系,宿命感,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C352,悪虂王,第六妖守,强者感,成熟可靠,直球主动,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→成熟可靠; strict heat threshold
+C353,湫,第六妖守,冷感,少年感,慢热,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C354,ミラン,提米拉纳国的好运公主与悲运骑士团,成熟可靠,色气,稳定恋爱,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C355,キア,提米拉纳国的好运公主与悲运骑士团,天然,少年感,治愈系,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C357,エリヤ,Honey Vibes,强者感,成熟可靠,强守护,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C358,フィン,Honey Vibes,理性沉稳,温柔,稳定恋爱,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C359,アルヴィン,Honey Vibes,冷感,精英感,慢热,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C360,イーノ,Honey Vibes,阳光,天然,治愈系,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C361,ミロ,Honey Vibes,热血,少年感,直球主动,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C362,テオ,Honey Vibes,色气,神秘系,高拉扯,,,,A,V6_7_1_PUBLIC_ROSTER_FAST_TRACK,AUTO_PASS,AUTO_PASS,spoiler-safe public evidence
+C143,ジョセフィ,提米拉纳国的好运公主与悲运骑士团,傲娇,热血,高拉扯,,,,A,V6_7_13_PUBLIC_ROSTER_COMPLETION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C144,アデル,提米拉纳国的好运公主与悲运骑士团,温柔,成熟可靠,强守护,,,,A,V6_7_13_PUBLIC_ROSTER_COMPLETION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C145,トビアス,提米拉纳国的好运公主与悲运骑士团,脆弱感,温柔,陪伴成长,,,,A,V6_7_13_PUBLIC_ROSTER_COMPLETION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C363,香椎玲音,DYNAMIC CHORD 动态和弦 feat.[rêve parfait] Remaster edition,傲娇,少年感,高情绪浓度,,,,A,V6_7_26_USER_REQUESTED_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C364,百瀬つむぎ,DYNAMIC CHORD 动态和弦 feat.[rêve parfait] Remaster edition,毒舌,热血,直球主动,,,,A,V6_7_26_USER_REQUESTED_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C365,月野原久遠,DYNAMIC CHORD 动态和弦 feat.[rêve parfait] Remaster edition,成熟可靠,阳光,稳定恋爱,,,,A,V6_7_26_USER_REQUESTED_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C366,香椎亜貴,DYNAMIC CHORD 动态和弦 feat.[rêve parfait] Remaster edition,温柔,脆弱感,治愈系,,,,A,V6_7_26_USER_REQUESTED_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C367,郝连重,月华辉映之刻,傲娇,少年感,直球主动,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→傲娇; strict heat threshold
+C368,申司铎,月华辉映之刻,腹黑,成熟可靠,直球主动,,,,A,V6_7_34_USER_REQUESTED_CHINESE_PREMIUM_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C369,郝连清,月华辉映之刻,色气,反差萌,高拉扯,,,,A,V6_7_34_USER_REQUESTED_CHINESE_PREMIUM_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C370,施夷光,与君盟,温柔,成熟可靠,治愈系,,,,A,V6_7_34_USER_REQUESTED_CHINESE_PREMIUM_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C371,姒勾践,与君盟,傲娇,强者感,高拉扯,,,,A,V6_7_34_USER_REQUESTED_CHINESE_PREMIUM_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C372,伍子胥,与君盟,成熟可靠,理性沉稳,强守护,,,,A,V6_7_34_USER_REQUESTED_CHINESE_PREMIUM_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C373,晨风,与君盟,冷感,成熟可靠,低表达,,,,A,V6_7_34_USER_REQUESTED_CHINESE_PREMIUM_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C374,篁智成,君于雪中希冀,冷感,神秘系,唯一例外,,,,A,V6_7_35_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C375,东条国孝,君于雪中希冀,阳光,成熟可靠,强守护,,,,A,V6_7_35_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C376,与市,君于雪中希冀,毒舌,冷感,慢热,,,,A,V6_7_35_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C377,久贺源十郎,君于雪中希冀,理性沉稳,成熟可靠,稳定恋爱,,,,A,V6_7_35_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C378,锦次,君于雪中希冀,傲娇,腹黑,高拉扯,,,,A,V6_7_35_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C379,樱太郎,君于雪中希冀,阳光,少年感,直球主动,,,,A,V6_7_35_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C229,Canus Espada,幻奏咖啡厅-Enchanté-,非人感,成熟可靠,强守护,,,,A,V6_5_RESTORED_TO_PRIMARY_REVIEW,AUTO_PASS,AUTO_PASS,restored from approved v6.5 expansion
+C230,Ignis Carbunculus,幻奏咖啡厅-Enchanté-,热血,傲娇,直球主动,,,,A,V6_5_RESTORED_TO_PRIMARY_REVIEW,AUTO_PASS,AUTO_PASS,restored from approved v6.5 expansion
+C231,Kaoru Rindo,幻奏咖啡厅-Enchanté-,年上感,温柔,稳定恋爱,,,,A,V6_5_RESTORED_TO_PRIMARY_REVIEW,AUTO_PASS,AUTO_PASS,restored from approved v6.5 expansion
+C232,Il Fado de Rie,幻奏咖啡厅-Enchanté-,天然,非人感,陪伴成长,,,,A,V6_5_RESTORED_TO_PRIMARY_REVIEW,AUTO_PASS,AUTO_PASS,restored from approved v6.5 expansion
+C233,Misyr Rex,幻奏咖啡厅-Enchanté-,神秘系,阳光,宿命感,,,,HUMAN_CONFIRMED,V6_5_RESTORED_TO_PRIMARY_REVIEW,HUMAN_CALIBRATED,KEEP,restored reviewer-confirmed tags from v6.5 expansion
+C245,Kazuma Kamikubo,Lover Pretend,阳光,少年感,陪伴成长,,,,A,V6_5_RESTORED_TO_PRIMARY_REVIEW,AUTO_PASS,AUTO_PASS,restored from approved v6.5 expansion
+C246,Harumi Makino,Lover Pretend,少年感,天然,直球主动,,,,A,V6_5_RESTORED_TO_PRIMARY_REVIEW,AUTO_PASS,AUTO_PASS,restored from approved v6.5 expansion
+C247,Riku Nishijima,Lover Pretend,精英感,腹黑,高拉扯,,,,A,V6_5_RESTORED_TO_PRIMARY_REVIEW,AUTO_PASS,AUTO_PASS,restored from approved v6.5 expansion
+C248,Yukito Sena,Lover Pretend,色气,阳光,直球主动,,,,A,V6_5_RESTORED_TO_PRIMARY_REVIEW,AUTO_PASS,AUTO_PASS,restored from approved v6.5 expansion
+C249,Asagi,Lover Pretend,成熟可靠,神秘系,慢热,,,,HUMAN_CONFIRMED,V6_5_RESTORED_TO_PRIMARY_REVIEW,HUMAN_CALIBRATED,KEEP,restored reviewer-confirmed tags from v6.5 expansion
+C380,鲁德尔·克罗伊茨,时钟机关默示录,成熟可靠,理性沉稳,强守护,,,,A,V6_7_36_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C381,利亚姆·耶布拉姆,时钟机关默示录,温柔,脆弱感,陪伴成长,,,,A,V6_7_36_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C382,库厄特·赫尔特林,时钟机关默示录,毒舌,理性沉稳,欢喜冤家,,,,A,V6_7_36_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C383,吉尔·哈尼什,时钟机关默示录,天然,神秘系,唯一例外,,,,A,V6_7_36_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C384,尤纳卡·吉斯贝尔特,时钟机关默示录,冷感,傲娇,强守护,,,,A,有热情和拼命守护但并非夸张外放型,HUMAN_CALIBRATED,REPLACE,热血→傲娇；official spoiler-safe public evidence
+C385,ハオラン,燃烧吧！乙女道士,温柔,成熟可靠,陪伴成长,,,,A,V6_7_36_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C386,ユーハン,燃烧吧！乙女道士,傲娇,毒舌,欢喜冤家,,,,A,V6_7_36_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C387,ロンレイ,燃烧吧！乙女道士,成熟可靠,精英感,稳定恋爱,,,,A,V6_7_36_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C388,シャオウ,燃烧吧！乙女道士,冷感,反差萌,慢热,,,,A,V6_7_36_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C389,ウロ,燃烧吧！乙女道士,神秘系,危险系,宿命感,,,,A,V6_7_36_USER_REQUESTED_OTOMATE_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C390,樱井琉夏,心跳回忆 Girl's Side 3rd Story,阳光,脆弱感,宿命感,,,,A,V6_7_37_USER_REQUESTED_GS3_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C391,樱井琥一,心跳回忆 Girl's Side 3rd Story,冷感,反差萌,强守护,,,,A,V6_7_37_USER_REQUESTED_GS3_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C392,不二山岚,心跳回忆 Girl's Side 3rd Story,阳光,强者感,直球主动,,,,A,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→阳光; strict heat threshold
+C393,新名旬平,心跳回忆 Girl's Side 3rd Story,阳光,色气,直球主动,,,,A,V6_7_37_USER_REQUESTED_GS3_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C394,绀野玉绪,心跳回忆 Girl's Side 3rd Story,理性沉稳,温柔,稳定恋爱,,,,A,V6_7_37_USER_REQUESTED_GS3_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C395,设乐圣司,心跳回忆 Girl's Side 3rd Story,傲娇,毒舌,慢热,,,,A,V6_7_37_USER_REQUESTED_GS3_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C396,春日太阳,心跳回忆 Girl's Side 3rd Story,少年感,阳光,直球主动,,,,A,V6_7_37_USER_REQUESTED_GS3_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C397,蓝泽秋吾,心跳回忆 Girl's Side 3rd Story,成熟可靠,温柔,治愈系,,,,A,V6_7_37_USER_REQUESTED_GS3_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C398,平健太,心跳回忆 Girl's Side 3rd Story,天然,温柔,陪伴成长,,,,A,V6_7_37_USER_REQUESTED_GS3_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C399,莲见达也,心跳回忆 Girl's Side 3rd Story,冷感,精英感,高拉扯,,,,A,V6_7_37_USER_REQUESTED_GS3_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C400,大迫力,心跳回忆 Girl's Side 3rd Story,热血,成熟可靠,陪伴成长,,,,A,V6_7_37_USER_REQUESTED_GS3_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C401,刘玄德,三国恋战记,成熟可靠,温柔,强守护,,,,A,V6_7_39_USER_REQUESTED_SANGOKU_RENSENKI_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C402,关云长,三国恋战记,理性沉稳,冷感,宿命感,,,,A,V6_7_39_USER_REQUESTED_SANGOKU_RENSENKI_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C403,张翼德,三国恋战记,阳光,天然,直球主动,,,,A,V6_7_39_USER_REQUESTED_SANGOKU_RENSENKI_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C404,赵子龙,三国恋战记,冷感,少年感,慢热,,,,A,V6_7_39_USER_REQUESTED_SANGOKU_RENSENKI_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C405,曹孟德,三国恋战记,腹黑,强者感,强占有,,,,A,V6_7_39_USER_REQUESTED_SANGOKU_RENSENKI_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C406,荀文若,三国恋战记,毒舌,理性沉稳,欢喜冤家,,,,A,V6_7_39_USER_REQUESTED_SANGOKU_RENSENKI_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C407,孙仲谋,三国恋战记,傲娇,少年感,陪伴成长,,,,A,V6_7_39_USER_REQUESTED_SANGOKU_RENSENKI_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C408,周公瑾,三国恋战记,温柔,神秘系,高拉扯,,,,A,V6_7_39_USER_REQUESTED_SANGOKU_RENSENKI_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C409,诸葛孔明,三国恋战记,腹黑,神秘系,宿命感,,,,A,V6_7_39_USER_REQUESTED_SANGOKU_RENSENKI_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C410,早安,三国恋战记,冷感,低表达,宿命感,,,,A,V6_7_39_USER_REQUESTED_SANGOKU_RENSENKI_EXPANSION,AUTO_PASS,AUTO_PASS,public route identity; hidden-role spoilers excluded
+C411,雅火,UN:LOGICAL,冷感,危险系,控制型,,,,A,V6_7_50_USER_REQUESTED_UNLOGICAL_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C412,宗像戒,UN:LOGICAL,冷感,温柔,高拉扯,,,,A,V6_7_50_USER_REQUESTED_UNLOGICAL_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C413,永守蓝,UN:LOGICAL,成熟可靠,温柔,陪伴成长,,,,A,V6_7_50_USER_REQUESTED_UNLOGICAL_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C414,弥坂奏壹,UN:LOGICAL,温柔,理性沉稳,稳定恋爱,,,,A,V6_7_50_USER_REQUESTED_UNLOGICAL_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C415,尤里,UN:LOGICAL,阳光,成熟可靠,强守护,,,,A,V6_7_50_USER_REQUESTED_UNLOGICAL_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C416,柾木真之介,玻璃心公主,成熟可靠,温柔,强守护,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C417,乌丸幸斗,玻璃心公主,腹黑,精英感,高拉扯,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C418,朝比奈天马,玻璃心公主,阳光,热血,直球主动,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C419,星野彼方,玻璃心公主,天然,少年感,治愈系,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C420,道明寺凯,玻璃心公主,神秘系,危险系,宿命感,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C421,伊势屋惣一郎,吉原彼岸花,成熟可靠,温柔,稳定恋爱,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C422,朔夜,吉原彼岸花,少年感,脆弱感,救赎感,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C423,大月忍,吉原彼岸花,色气,阳光,直球主动,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C424,神乐屋彰人,吉原彼岸花,冷感,危险系,高拉扯,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C425,樱华屋时雨,吉原彼岸花,成熟可靠,腹黑,强占有,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C426,犬岛谣,妖怪米饭,热血,阳光,陪伴成长,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C427,犬岛咏,妖怪米饭,傲娇,少年感,欢喜冤家,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C428,伊吹萩之介,妖怪米饭,温柔,理性沉稳,稳定恋爱,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C429,花苏芳,妖怪米饭,神秘系,色气,高拉扯,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C430,芹野真夏,妖怪米饭,成熟可靠,阳光,强守护,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C431,木邑浅葱,妖怪米饭,神秘系,脆弱感,宿命感,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C432,鹰岭陆,绝对阶级学园,强者感,傲娇,高拉扯,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C433,鹭之宫怜,绝对阶级学园,温柔,神秘系,救赎感,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C434,加地壹波,绝对阶级学园,阳光,色气,直球主动,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C435,七濑十矢,绝对阶级学园,理性沉稳,成熟可靠,强守护,,,,B,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→理性沉稳; strict heat threshold
+C436,五十岚晴,绝对阶级学园,少年感,脆弱感,陪伴成长,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C437,利兹·鲁涅·夏娜,CRAZY CHA!N,冷感,神秘系,宿命感,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C438,雷克斯·德·克拉谢尔,CRAZY CHA!N,危险系,强者感,控制型,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C439,瓦德斯,CRAZY CHA!N,成熟可靠,精英感,强守护,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C440,弗拉托尼斯·莱拉普斯,CRAZY CHA!N,冷感,危险系,高拉扯,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C441,克罗诺尔,CRAZY CHA!N,非人感,神秘系,宿命感,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C442,修德,悠久的钢刃列骑,神秘系,强者感,唯一例外,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C443,阿塔尔瓦,悠久的钢刃列骑,理性沉稳,成熟可靠,强守护,,,,B,严格热血门槛人工巡检,HUMAN_CALIBRATED,REPLACE,热血→理性沉稳; strict heat threshold
+C444,亚久尔,悠久的钢刃列骑,理性沉稳,少年感,陪伴成长,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C445,罗,悠久的钢刃列骑,腹黑,危险系,高拉扯,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C446,克雷德尔,悠久的钢刃列骑,冷感,神秘系,宿命感,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C447,海濑隼人,麻烦清理专家咖啡店,阳光,脆弱感,陪伴成长,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C448,日向野骏,麻烦清理专家咖啡店,阳光,少年感,直球主动,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C449,月城苇夜,麻烦清理专家咖啡店,成熟可靠,腹黑,强守护,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C450,空闲巴,麻烦清理专家咖啡店,温柔,冷感,慢热,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C451,花丘槙尾,麻烦清理专家咖啡店,温柔,低表达,慢热,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C452,风见琉佳,麻烦清理专家咖啡店,毒舌,精英感,高拉扯,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C453,善知鸟全,麻烦清理专家咖啡店,色气,反差萌,直球主动,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C454,月城茅,麻烦清理专家咖啡店,理性沉稳,脆弱感,救赎感,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C455,东里环,花好似他,阳光,少年感,直球主动,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C456,栖川银之助,花好似他,毒舌,成熟可靠,高拉扯,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C457,市毛北斗,花好似他,成熟可靠,温柔,陪伴成长,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C458,美波天弥,花好似他,温柔,低表达,直球主动,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C459,箕轮斗斗丸,喧哗番长乙女,阳光,热血,陪伴成长,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C460,金春贵之,喧哗番长乙女,傲娇,少年感,欢喜冤家,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C461,吉良麟太郎,喧哗番长乙女,成熟可靠,冷感,慢热,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C462,未良子裕太,喧哗番长乙女,色气,腹黑,高拉扯,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C463,鬼岛凤凰,喧哗番长乙女,强者感,成熟可靠,强守护,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C464,宫之杜正,华彩煌煌,温柔,理性沉稳,稳定恋爱,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C465,宫之杜勇,华彩煌煌,阳光,精英感,陪伴成长,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C466,宫之杜茂,华彩煌煌,傲娇,少年感,欢喜冤家,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C467,宫之杜进,华彩煌煌,神秘系,腹黑,宿命感,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C468,宫之杜博,华彩煌煌,冷感,脆弱感,救赎感,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C469,宫之杜雅,华彩煌煌,阳光,成熟可靠,高拉扯,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C470,宫之杜守,华彩煌煌,神秘系,低表达,慢热,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C471,晴人,被囚禁的掌心,冷感,成熟可靠,慢热,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C472,葵,被囚禁的掌心,温柔,腹黑,高拉扯,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C473,千彰,被囚禁的掌心,阳光,色气,直球主动,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C474,雷恩,白与黑的爱丽丝,冷感,理性沉稳,慢热,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C475,斯诺,白与黑的爱丽丝,温柔,腹黑,高拉扯,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C476,米内特,白与黑的爱丽丝,阳光,天然,直球主动,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C477,杰克,白与黑的爱丽丝,腹黑,危险系,高拉扯,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C478,尼禄,白与黑的爱丽丝,少年感,神秘系,救赎感,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C479,卡侬,白与黑的爱丽丝,成熟可靠,强者感,强守护,,,,B,V6_7_51_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C480,斯巴,暗之眷属,阳光,热血,直球主动,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C481,奈杰,暗之眷属,温柔,低表达,慢热,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C482,雷,暗之眷属,色气,危险系,强占有,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C483,纳兹米,暗之眷属,神秘系,成熟可靠,宿命感,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,public spoiler-safe character evidence
+C484,文斯·卢根,蛇香之夜,成熟可靠,色气,高拉扯,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C485,罗兰·克莱德尔,蛇香之夜,精英感,腹黑,刺激型,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C486,麟皇骊,蛇香之夜,强者感,危险系,强占有,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C487,麟希骊,蛇香之夜,少年感,反差萌,高拉扯,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C488,莱扎尔·沙纳沙,蛇香之夜,成熟可靠,神秘系,唯一例外,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C489,杰米尔,蛇香之夜,阳光,色气,直球主动,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C490,雷欧,花之女王,热血,强者感,强守护,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C491,吉斯兰,花之女王,冷感,理性沉稳,慢热,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C492,路易,花之女王,冷感,精英感,高拉扯,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C493,奥菲,花之女王,阳光,少年感,陪伴成长,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C494,尤贝尔,花之女王,腹黑,神秘系,宿命感,,,,B,V6_7_52_USER_CATALOG_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public evidence
+C495,姐崎隼,我的超级现充生活,傲娇,阳光,高拉扯,,,,A,V6_7_53_USER_REQUESTED_WATAJU_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public character evidence
+C496,仓口步,我的超级现充生活,低表达,脆弱感,慢热,,,,A,V6_7_53_USER_REQUESTED_WATAJU_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public character evidence
+C497,星名穗积,我的超级现充生活,毒舌,反差萌,欢喜冤家,,,,A,V6_7_53_USER_REQUESTED_WATAJU_EXPANSION,AUTO_PASS,AUTO_PASS,official spoiler-safe public character evidence

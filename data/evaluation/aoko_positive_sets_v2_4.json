@@ -1,0 +1,24 @@
+{
+  "evaluation_name": "AOMatch Internal Reviewer Evaluation / Single-Reviewer Pilot",
+  "reviewer": "aoko",
+  "name_resolution": {
+    "杨": {"character_id": "C005", "csv_character_name": "杨", "annotation_status": "human_reviewed"},
+    "柳爱时": {"character_id": "C001", "csv_character_name": "柳爱时", "annotation_status": "human_reviewed"},
+    "Impey": {"character_id": "C014", "csv_character_name": "Impey Barbicane", "annotation_status": "human_reviewed"},
+    "缘": {"character_id": "C019", "csv_character_name": "缘", "annotation_status": "human_reviewed"},
+    "Tyril": {"character_id": "C015", "csv_character_name": "Tyril I Lister", "annotation_status": "human_reviewed"},
+    "Allan": {"character_id": "C024", "csv_character_name": "Allan Melville", "annotation_status": "human_reviewed"},
+    "光森壹哉": {"character_id": "C022", "csv_character_name": "光森壱哉", "annotation_status": "human_reviewed", "resolution_note": "壹/壱 orthographic variant"},
+    "平重衡": {"character_id": "C025", "csv_character_name": "平重衡", "annotation_status": "human_reviewed"},
+    "YOFY": {"character_id": "C026", "csv_character_name": "YOFY", "annotation_status": "human_reviewed"},
+    "Vilio": {"character_id": "C021", "csv_character_name": "Vilio", "annotation_status": "human_reviewed"}
+  },
+  "sets": [
+    {"set_id": "aoko_set_01", "kind": "cohesive", "character_ids": ["C019", "C024", "C015", "C005"]},
+    {"set_id": "aoko_set_02", "kind": "cohesive", "character_ids": ["C001", "C014", "C021", "C015"]},
+    {"set_id": "aoko_set_03", "kind": "cohesive", "character_ids": ["C019", "C024", "C022", "C025", "C026"]},
+    {"set_id": "aoko_set_04", "kind": "mixed", "character_ids": ["C005", "C001", "C014", "C026", "C025"]},
+    {"set_id": "aoko_set_05", "kind": "mixed", "character_ids": ["C001", "C019", "C015", "C022", "C021"]},
+    {"set_id": "aoko_set_06", "kind": "mixed", "character_ids": ["C005", "C014", "C024", "C025", "C021"]}
+  ]
+}

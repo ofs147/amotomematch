@@ -1,0 +1,113 @@
+{
+  "evaluation_name": "AOMatch v3.4 Expanded Database / Frozen Gated Rescue",
+  "parameters": {
+    "confidence_threshold": 0.55,
+    "support_mode": "sqrt",
+    "lambda": 1.0
+  },
+  "pool": {
+    "old": 30,
+    "current": 77
+  },
+  "ground_truth": {
+    "folds": 28,
+    "positive_ids": [
+      "C001",
+      "C005",
+      "C014",
+      "C015",
+      "C019",
+      "C021",
+      "C022",
+      "C024",
+      "C025",
+      "C026"
+    ],
+    "purity_check": "passed"
+  },
+  "old": {
+    "cohesive": {
+      "folds": 13,
+      "hit_at_1": 0.15384615384615385,
+      "hit_at_3": 0.3076923076923077,
+      "hit_at_5": 0.38461538461538464,
+      "mrr": 0.31577951962567347,
+      "mean_positive_rank": 6.923076923076923,
+      "median_positive_rank": 7.0,
+      "mean_top1_score": 67.91103567876495,
+      "mean_top5_score": 62.48988172260169,
+      "mean_top5_spread": 5.421153956163251
+    },
+    "mixed": {
+      "folds": 15,
+      "hit_at_1": 0.0,
+      "hit_at_3": 0.0,
+      "hit_at_5": 0.06666666666666667,
+      "mrr": 0.060390038669147564,
+      "mean_positive_rank": 20.333333333333332,
+      "median_positive_rank": 23.0,
+      "mean_top1_score": 67.2141423748359,
+      "mean_top5_score": 63.08612274064348,
+      "mean_top5_spread": 4.1280196341924045
+    },
+    "overall": {
+      "folds": 28,
+      "hit_at_1": 0.07142857142857142,
+      "hit_at_3": 0.14285714285714285,
+      "hit_at_5": 0.21428571428571427,
+      "mrr": 0.17896372625610604,
+      "mean_positive_rank": 14.107142857142858,
+      "median_positive_rank": 12.5,
+      "mean_top1_score": 67.53769998023152,
+      "mean_top5_score": 62.8092965536955,
+      "mean_top5_spread": 4.728403426536012
+    }
+  },
+  "current": {
+    "cohesive": {
+      "folds": 13,
+      "hit_at_1": 0.15384615384615385,
+      "hit_at_3": 0.3076923076923077,
+      "hit_at_5": 0.38461538461538464,
+      "mrr": 0.28408159822633505,
+      "mean_positive_rank": 12.307692307692308,
+      "median_positive_rank": 14.0,
+      "mean_top1_score": 68.24477001267981,
+      "mean_top5_score": 63.732807812053125,
+      "mean_top5_spread": 4.511962200626685
+    },
+    "mixed": {
+      "folds": 15,
+      "hit_at_1": 0.0,
+      "hit_at_3": 0.0,
+      "hit_at_5": 0.0,
+      "mrr": 0.037857958150063646,
+      "mean_positive_rank": 39.86666666666667,
+      "median_positive_rank": 43.0,
+      "mean_top1_score": 67.42257688489786,
+      "mean_top5_score": 63.57332667779496,
+      "mean_top5_spread": 3.8492502071029104
+    },
+    "overall": {
+      "folds": 28,
+      "hit_at_1": 0.07142857142857142,
+      "hit_at_3": 0.14285714285714285,
+      "hit_at_5": 0.17857142857142858,
+      "mrr": 0.15217607675690398,
+      "mean_positive_rank": 27.071428571428573,
+      "median_positive_rank": 24.0,
+      "mean_top1_score": 67.8043094085109,
+      "mean_top5_score": 63.647371490129096,
+      "mean_top5_spread": 4.156937918381805
+    }
+  },
+  "rank_change_counts": {
+    "WORSE": 24,
+    "STABLE": 4
+  },
+  "expansion_effect": {
+    "folds_with_expanded_candidate_in_top5": 24,
+    "mean_expanded_candidates_in_top5": 1.2142857142857142,
+    "mean_expanded_candidates_above_positive": 12.964285714285714
+  }
+}

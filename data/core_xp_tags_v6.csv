@@ -1,0 +1,479 @@
+﻿character_id,core_tag_1,core_tag_2,core_tag_3,tag_count,migration_status,review_status,source_basis,locked_anchor,confidence,notes,schema_version
+C001,成熟可靠,温柔,稳定恋爱,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep;human_calibrated_anchor=true,true,HUMAN_CONFIRMED,human_calibrated_anchor=true,6.3.3
+C002,反差萌,天然,高拉扯,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C003,毒舌,理性沉稳,高拉扯,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C004,阳光,热血,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep;human_calibrated_anchor=true,true,HUMAN_CONFIRMED,human_calibrated_anchor=true,6.3.3
+C005,危险系,疯感,高拉扯,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep;human_calibrated_anchor=true,true,HUMAN_CONFIRMED,human_calibrated_anchor=true,6.3.3
+C006,危险系,神秘系,强占有,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C007,色气,强守护,稳定恋爱,3,MIGRATION_READY,AUTO_APPROVED_BY_CALIBRATION,auto_approved_by_calibration,false,CALIBRATION_PASS,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE,6.3.3
+C009,成熟可靠,救赎感,陪伴成长,3,MIGRATION_READY,AUTO_APPROVED_BY_CALIBRATION,auto_approved_by_calibration,false,CALIBRATION_PASS,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE,6.3.3
+C010,成熟可靠,陪伴成长,强守护,3,MIGRATION_READY,AUTO_APPROVED_BY_CALIBRATION,auto_approved_by_calibration,false,CALIBRATION_PASS,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE,6.3.3
+C011,冷感,神秘系,慢热,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep;human_calibrated_anchor=true,true,HUMAN_CONFIRMED,human_calibrated_anchor=true,6.3.3
+C012,成熟可靠,腹黑,高依赖,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep;human_calibrated_anchor=true,true,HUMAN_CONFIRMED,human_calibrated_anchor=true,6.3.3
+C013,非人感,高拉扯,高依赖,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep,false,HUMAN_CONFIRMED,CALIBRATION_REVIEW_KEEP,6.3.3
+C014,热血,阳光,陪伴成长,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C015,毒舌,傲娇,高拉扯,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C016,反差萌,腹黑,高情绪浓度,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C017,非人感,温柔,陪伴成长,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C018,反差萌,神秘系,宿命感,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C019,腹黑,色气,高拉扯,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C020,毒舌,理性沉稳,直球主动,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C021,非人感,阳光,宿命感,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C022,脆弱感,高拉扯,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep,false,HUMAN_CONFIRMED,CALIBRATION_REVIEW_KEEP,6.3.3
+C023,理性沉稳,成熟可靠,陪伴成长,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C024,腹黑,色气,唯一例外,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C025,疯感,危险系,强占有,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C026,少年感,控制型,强占有,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep,false,HUMAN_CONFIRMED,CALIBRATION_REVIEW_KEEP,6.3.3
+C027,神秘系,宿命感,强守护,3,MIGRATION_READY,AUTO_APPROVED_BY_CALIBRATION,auto_approved_by_calibration,false,CALIBRATION_PASS,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE,6.3.3
+C028,危险系,非人感,高拉扯,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C029,理性沉稳,神秘系,高拉扯,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C030,阳光,陪伴成长,强守护,3,MIGRATION_READY,AUTO_APPROVED_BY_CALIBRATION,auto_approved_by_calibration,false,CALIBRATION_PASS,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE,6.3.3
+C031,腹黑,成熟可靠,陪伴成长,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C032,脆弱感,少年感,救赎感,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C033,反差萌,危险系,高依赖,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C034,成熟可靠,阳光,陪伴成长,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,B,热血→成熟可靠; strict heat threshold,6.3.3
+C035,理性沉稳,温柔,稳定恋爱,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep,false,HUMAN_CONFIRMED,CALIBRATION_REVIEW_KEEP,6.3.3
+C036,少年感,直球主动,刺激型,3,MIGRATION_READY,AUTO_APPROVED_BY_CALIBRATION,auto_approved_by_calibration,false,CALIBRATION_PASS,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE,6.3.3
+C037,温柔,年上感,陪伴成长,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep,false,HUMAN_CONFIRMED,CALIBRATION_REVIEW_KEEP;canonical_name=Zenn Sorfield;legacy_erroneous_spelling=Zen Sorfield,6.3.3
+C038,危险系,温柔,高拉扯,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C039,反差萌,危险系,高拉扯,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C040,反差萌,毒舌,欢喜冤家,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C041,理性沉稳,成熟可靠,慢热,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C042,冷感,成熟可靠,强守护,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C043,腹黑,神秘系,救赎感,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C044,少年感,阳光,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,CALIBRATION_PASS,热血→少年感; strict heat threshold,6.3.3
+C045,温柔,年上感,强嫉妒,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep,false,HUMAN_CONFIRMED,CALIBRATION_REVIEW_KEEP,6.3.3
+C046,少年感,温柔,高奉献,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C047,冷感,理性沉稳,低表达,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C048,冷感,成熟可靠,高拉扯,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C049,危险系,腹黑,高拉扯,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C050,色气,直球主动,慢热,3,MIGRATION_READY,AUTO_APPROVED_BY_CALIBRATION,auto_approved_by_calibration,false,CALIBRATION_PASS,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE,6.3.3
+C051,冷感,神秘系,救赎感,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C052,热血,阳光,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep,false,HUMAN_CONFIRMED,CALIBRATION_REVIEW_KEEP,6.3.3
+C053,冷感,傲娇,欢喜冤家,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C054,理性沉稳,稳定恋爱,,2,MIGRATION_READY,AUTO_APPROVED_BY_CALIBRATION,auto_approved_by_calibration,false,CALIBRATION_PASS,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE,6.3.3
+C055,天然,少年感,直球主动,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C056,毒舌,强者感,直球主动,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C057,阳光,少年感,直球主动,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C058,温柔,成熟可靠,陪伴成长,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep,false,HUMAN_CONFIRMED,CALIBRATION_REVIEW_KEEP,6.3.3
+C059,理性沉稳,精英感,陪伴成长,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C060,非人感,冷感,慢热,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C061,非人感,天然,直球主动,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C062,傲娇,少年感,欢喜冤家,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C063,毒舌,冷感,救赎感,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C064,危险系,腹黑,唯一例外,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C065,傲娇,欢喜冤家,稳定恋爱,3,MIGRATION_READY,AUTO_APPROVED_BY_CALIBRATION,auto_approved_by_calibration,false,CALIBRATION_PASS,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE,6.3.3
+C066,少年感,慢热,高奉献,3,MIGRATION_READY,AUTO_APPROVED_BY_CALIBRATION,auto_approved_by_calibration,false,CALIBRATION_PASS,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE,6.3.3
+C067,傲娇,少年感,直球主动,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C068,理性沉稳,色气,直球主动,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C069,危险系,腹黑,高拉扯,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C070,冷感,慢热,高奉献,3,MIGRATION_READY,AUTO_APPROVED_BY_CALIBRATION,auto_approved_by_calibration,false,CALIBRATION_PASS,CALIBRATION_SAMPLE_PASS;STATIC_QA_ELIGIBLE,6.3.3
+C071,冷感,理性沉稳,慢热,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C072,腹黑,精英感,高拉扯,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C073,强者感,少年感,直球主动,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C074,冷感,少年感,陪伴成长,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C075,理性沉稳,精英感,直球主动,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C076,温柔,阳光,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,CALIBRATION_PASS,热血→温柔; strict heat threshold,6.3.3
+C077,理性沉稳,成熟可靠,稳定恋爱,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep,false,HUMAN_CONFIRMED,CALIBRATION_REVIEW_KEEP,6.3.3
+C078,阳光,温柔,直球主动,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C079,精英感,阳光,陪伴成长,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,B,热血→精英感; strict heat threshold,6.3.3
+C080,腹黑,神秘系,救赎感,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C081,反差萌,神秘系,高奉献,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C082,冷感,成熟可靠,强守护,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C083,脆弱感,少年感,救赎感,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C084,脆弱感,少年感,救赎感,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C085,温柔,成熟可靠,陪伴成长,3,MIGRATION_READY,HUMAN_CALIBRATED,human_review_keep,false,HUMAN_CONFIRMED,CALIBRATION_REVIEW_KEEP,6.3.3
+C086,少年感,温柔,直球主动,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C087,疯感,危险系,高拉扯,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C088,冷感,成熟可靠,强守护,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C089,阳光,非人感,宿命感,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,B,热血→阳光; strict heat threshold,6.3.3
+C090,非人感,温柔,陪伴成长,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C091,理性沉稳,成熟可靠,慢热,3,MIGRATION_READY,AUTO_MIGRATION_READY,v6_1_rule_assisted_combined,false,B,,6.3.3
+C215,热血,成熟可靠,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C216,脆弱感,慢热,高依赖,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_5_1_human_review,false,HUMAN_CONFIRMED,KEEP_REVIEWER_FINAL;JUSTIFIED_1_SELF_2_ROMANCE,6.5.1
+C217,色气,脆弱感,救赎感,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C218,腹黑,少年感,强占有,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C219,冷感,毒舌,慢热,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C220,神秘系,反差萌,高拉扯,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_5_1_human_review,false,HUMAN_CONFIRMED,KEEP_REVIEWER_FINAL;SPOILER_SAFE,6.5.1
+C221,毒舌,冷感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C222,天然,精英感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved; heat threshold narrowed by human review,6.5.1
+C223,温柔,年上感,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C224,傲娇,少年感,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C225,神秘系,腹黑,高拉扯,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_5_1_human_review,false,HUMAN_CONFIRMED,KEEP_REVIEWER_FINAL,6.5.1
+C226,危险系,强者感,强占有,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C227,神秘系,脆弱感,高依赖,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C228,冷感,强者感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C229,非人感,成熟可靠,强守护,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C230,热血,傲娇,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C231,年上感,温柔,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C232,天然,非人感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C233,神秘系,阳光,宿命感,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_5_1_human_review,false,HUMAN_CONFIRMED,REPLACE 高拉扯 → 宿命感;SPOILER_SAFE,6.5.1
+C234,色气,成熟可靠,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C235,毒舌,傲娇,慢热,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C236,冷感,理性沉稳,慢热,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C237,成熟可靠,强者感,强守护,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C238,宿命感,神秘系,高拉扯,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_5_1_human_review,false,HUMAN_CONFIRMED,REPLACE 非人感 → 宿命感;JUSTIFIED_1_SELF_2_ROMANCE;SPOILER_SAFE,6.5.1
+C239,温柔,脆弱感,高奉献,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C240,成熟可靠,温柔,强守护,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C241,少年感,腹黑,高依赖,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C242,冷感,成熟可靠,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C243,阳光,色气,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C244,冷感,强者感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C245,阳光,少年感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C246,少年感,天然,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C247,精英感,腹黑,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C248,色气,阳光,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C249,成熟可靠,神秘系,慢热,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_5_1_human_review,false,HUMAN_CONFIRMED,KEEP_REVIEWER_FINAL,6.5.1
+C250,成熟可靠,温柔,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C251,温柔,精英感,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C252,冷感,精英感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C253,成熟可靠,温柔,强守护,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C254,非人感,神秘系,宿命感,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_5_1_human_review,false,HUMAN_CONFIRMED,KEEP_REVIEWER_FINAL,6.5.1
+C256,冷感,强者感,强守护,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C257,热血,傲娇,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C258,脆弱感,理性沉稳,救赎感,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C259,神秘系,天然,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C260,冷感,神秘系,高拉扯,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_5_1_human_review,false,HUMAN_CONFIRMED,KEEP_REVIEWER_FINAL;SPOILER_SAFE,6.5.1
+C312,阳光,少年感,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→少年感; strict heat threshold,6.5.1
+C313,理性沉稳,成熟可靠,慢热,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C314,温柔,反差萌,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C315,冷感,精英感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C316,色气,年上感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C317,傲娇,少年感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C318,天然,少年感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_5_public_evidence_auto_pass,false,A,v6.5 expansion static QA approved,6.5.1
+C092,神秘系,脆弱感,救赎感,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_6b_1_human_review,false,HUMAN_CONFIRMED,Spoiler-safe public Core Tags; existing stable identity; Reviewer KEEP,6.6B.1
+C093,阳光,反差萌,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_6b_1_human_review,false,HUMAN_CONFIRMED,Spoiler-safe public Core Tags; existing stable identity; Reviewer KEEP,6.6B.1
+C094,毒舌,理性沉稳,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C095,温柔,天然,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C096,强者感,温柔,强守护,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C097,非人感,成熟可靠,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C105,阳光,成熟可靠,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→成熟可靠; strict heat threshold,6.6B.1
+C106,冷感,少年感,强占有,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C107,温柔,成熟可靠,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C108,冷感,脆弱感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C109,毒舌,傲娇,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C110,成熟可靠,温柔,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C111,天然,少年感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C112,冷感,神秘系,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C113,色气,神秘系,刺激型,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_6b_1_human_review,false,HUMAN_CONFIRMED,Spoiler-safe public Core Tags; existing stable identity; Reviewer KEEP,6.6B.1
+C114,阳光,成熟可靠,宿命感,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; heat threshold narrowed by human review,6.6B.1
+C115,温柔,理性沉稳,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C116,危险系,腹黑,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C117,成熟可靠,强者感,强守护,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C118,冷感,精英感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C119,神秘系,非人感,宿命感,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C120,成熟可靠,温柔,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C121,阳光,少年感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C122,毒舌,精英感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C123,冷感,强者感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C124,色气,腹黑,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C125,成熟可靠,神秘系,宿命感,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_6b_1_human_review,false,HUMAN_CONFIRMED,Spoiler-safe public Core Tags; existing stable identity; Reviewer KEEP,6.6B.1
+C126,冷感,精英感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C127,温柔,脆弱感,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C128,毒舌,傲娇,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C129,危险系,疯感,刺激型,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C130,成熟可靠,温柔,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C131,阳光,少年感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C132,神秘系,非人感,宿命感,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C133,少年感,温柔,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C134,热血,阳光,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C135,成熟可靠,强者感,强守护,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C136,精英感,危险系,强占有,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C137,傲娇,强者感,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C138,温柔,天然,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C139,冷感,温柔,低表达,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; heat threshold narrowed by human review,6.6B.1
+C140,毒舌,理性沉稳,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C141,冷感,神秘系,高拉扯,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_6b_1_human_review,false,HUMAN_CONFIRMED,Spoiler-safe public Core Tags; existing stable identity; Reviewer KEEP,6.6B.1
+C142,温柔,脆弱感,救赎感,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_6b_1_human_review,false,HUMAN_CONFIRMED,Spoiler-safe public Core Tags; existing stable identity; Reviewer KEEP,6.6B.1
+C163,阳光,成熟可靠,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C164,冷感,强者感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C165,色气,精英感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C166,冷感,天然,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C167,天然,少年感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C186,阳光,成熟可靠,强守护,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→阳光; strict heat threshold,6.6B.1
+C187,阳光,少年感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C188,天然,脆弱感,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C189,理性沉稳,精英感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C190,成熟可靠,冷感,强守护,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C191,冷感,神秘系,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C192,阳光,腹黑,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C193,傲娇,少年感,欢喜冤家,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→少年感; strict heat threshold,6.6B.1
+C194,温柔,脆弱感,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C195,温柔,成熟可靠,强守护,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_6b_1_human_review,false,HUMAN_CONFIRMED,Spoiler-safe public Core Tags; existing stable identity; Reviewer KEEP,6.6B.1
+C196,阳光,少年感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C197,成熟可靠,温柔,强守护,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C198,冷感,强者感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Spoiler-safe public Core Tags; existing stable identity,6.6B.1
+C199,神秘系,色气,高拉扯,3,MIGRATION_READY,HUMAN_CALIBRATED,v6_6b_1_human_review,false,HUMAN_CONFIRMED,Spoiler-safe public Core Tags; existing stable identity; Reviewer KEEP,6.6B.1
+C319,色气,精英感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Reviewer-approved roster creation; spoiler-safe public Core Tags,6.6B.1
+C320,色气,脆弱感,高依赖,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Reviewer-approved roster creation; spoiler-safe public Core Tags,6.6B.1
+C321,温柔,成熟可靠,高奉献,3,MIGRATION_READY,AUTO_PASS,v6_6b_public_evidence_auto_pass,false,A,Reviewer-approved roster creation; spoiler-safe public Core Tags,6.6B.1
+C322,傲娇,少年感,欢喜冤家,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→少年感; strict heat threshold,6.6B.1
+C098,成熟可靠,温柔,强守护,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C099,温柔,少年感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C100,冷感,强者感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C101,热血,阳光,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C102,温柔,理性沉稳,高奉献,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C154,阳光,腹黑,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→腹黑; strict heat threshold,6.6C
+C155,冷感,少年感,高依赖,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C156,成熟可靠,理性沉稳,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C158,温柔,脆弱感,救赎感,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C159,色气,腹黑,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C160,傲娇,毒舌,欢喜冤家,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→毒舌; strict heat threshold,6.6C
+C162,天然,少年感,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C168,阳光,少年感,陪伴成长,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→少年感; strict heat threshold,6.6C
+C169,冷感,脆弱感,救赎感,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C170,成熟可靠,强者感,强守护,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C171,色气,神秘系,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C172,理性沉稳,精英感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C174,成熟可靠,强者感,高奉献,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C175,毒舌,脆弱感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C176,冷感,强者感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C177,热血,少年感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C178,阳光,成熟可靠,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C179,危险系,强者感,强占有,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C180,热血,阳光,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C182,温柔,成熟可靠,强守护,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C183,温柔,理性沉稳,高奉献,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C184,少年感,阳光,陪伴成长,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→阳光; strict heat threshold,6.6C
+C200,傲娇,热血,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C201,冷感,精英感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C202,阳光,少年感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C203,色气,非人感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C204,温柔,天然,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C206,阳光,少年感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C207,强者感,冷感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C208,温柔,脆弱感,救赎感,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C209,腹黑,色气,强占有,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C210,冷感,神秘系,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C261,成熟可靠,温柔,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C262,理性沉稳,精英感,强守护,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C263,色气,年上感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C264,腹黑,色气,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C265,阳光,少年感,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→少年感; strict heat threshold,6.6C
+C266,温柔,理性沉稳,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C267,成熟可靠,理性沉稳,强守护,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→理性沉稳; strict heat threshold,6.6C
+C268,温柔,天然,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C269,阳光,少年感,陪伴成长,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→阳光; strict heat threshold,6.6C
+C270,温柔,精英感,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C271,傲娇,少年感,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C272,色气,少年感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C274,傲娇,危险系,强占有,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C275,疯感,脆弱感,高依赖,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C276,色气,腹黑,刺激型,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C277,冷感,低表达,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C278,理性沉稳,控制型,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C279,傲娇,脆弱感,救赎感,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C280,精英感,控制型,强占有,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C281,阳光,色气,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C282,傲娇,强者感,欢喜冤家,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→傲娇; strict heat threshold,6.6C
+C284,温柔,成熟可靠,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C285,少年感,阳光,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C286,冷感,精英感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C287,阳光,少年感,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→阳光; strict heat threshold,6.6C
+C288,理性沉稳,温柔,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C289,色气,腹黑,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C290,神秘系,冷感,宿命感,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C291,成熟可靠,强者感,强守护,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C293,热血,强者感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C294,温柔,成熟可靠,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C295,少年感,阳光,陪伴成长,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→阳光; strict heat threshold,6.6C
+C296,理性沉稳,精英感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C297,冷感,强者感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C298,阳光,热血,直球主动,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C299,色气,神秘系,刺激型,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C301,阳光,成熟可靠,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C302,冷感,精英感,慢热,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C303,天然,少年感,治愈系,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C304,反差萌,色气,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C305,温柔,理性沉稳,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C306,冷感,少年感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C307,成熟可靠,年上感,强守护,3,MIGRATION_READY,AUTO_PASS,v6_6c_public_evidence_auto_pass,false,A,v6.6C all-remaining AUTO_PASS,6.6C
+C308,阳光,少年感,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→少年感; strict heat threshold,6.6C
+C104,神秘系,腹黑,宿命感,3,MIGRATION_READY,HUMAN_CALIBRATED,v6.6C.1_reviewer_keep,false,HUMAN_CONFIRMED,review_action=KEEP,6.6C.1
+C157,冷感,精英感,高拉扯,3,MIGRATION_READY,HUMAN_CALIBRATED,v6.6C.1_reviewer_keep,false,HUMAN_CONFIRMED,review_action=KEEP,6.6C.1
+C161,神秘系,非人感,宿命感,3,MIGRATION_READY,HUMAN_CALIBRATED,v6.6C.1_reviewer_keep,false,HUMAN_CONFIRMED,review_action=KEEP,6.6C.1
+C173,温柔,天然,治愈系,3,MIGRATION_READY,HUMAN_CALIBRATED,v6.6C.1_reviewer_manual_modification,false,HUMAN_CONFIRMED,review_action=MANUAL_MODIFICATION,6.6C.1
+C181,理性沉稳,神秘系,高拉扯,3,MIGRATION_READY,HUMAN_CALIBRATED,v6.6C.1_reviewer_keep,false,HUMAN_CONFIRMED,review_action=KEEP,6.6C.1
+C185,色气,神秘系,宿命感,3,MIGRATION_READY,HUMAN_CALIBRATED,v6.6C.1_reviewer_keep,false,HUMAN_CONFIRMED,review_action=KEEP,6.6C.1
+C205,神秘系,腹黑,刺激型,3,MIGRATION_READY,HUMAN_CALIBRATED,v6.6C.1_reviewer_keep,false,HUMAN_CONFIRMED,review_action=KEEP,6.6C.1
+C211,非人感,危险系,宿命感,3,MIGRATION_READY,HUMAN_CALIBRATED,v6.6C.1_reviewer_keep,false,HUMAN_CONFIRMED,review_action=KEEP,6.6C.1
+C273,天然,少年感,治愈系,3,MIGRATION_READY,HUMAN_CALIBRATED,v6.6C.1_reviewer_keep,false,HUMAN_CONFIRMED,review_action=KEEP,6.6C.1
+C283,温柔,脆弱感,高依赖,3,MIGRATION_READY,HUMAN_CALIBRATED,v6.6C.1_reviewer_keep,false,HUMAN_CONFIRMED,review_action=KEEP,6.6C.1
+C292,危险系,神秘系,高情绪浓度,3,MIGRATION_READY,HUMAN_CALIBRATED,v6.6C.1_reviewer_keep,false,HUMAN_CONFIRMED,review_action=KEEP,6.6C.1
+C300,成熟可靠,神秘系,宿命感,3,MIGRATION_READY,HUMAN_CALIBRATED,v6.6C.1_reviewer_keep,false,HUMAN_CONFIRMED,review_action=KEEP,6.6C.1
+C323,精英感,疯感,唯一例外,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C324,温柔,少年感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C325,冷感,脆弱感,治愈系,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C326,温柔,少年感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C327,腹黑,精英感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C328,理性沉稳,成熟可靠,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C329,冷感,脆弱感,救赎感,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C330,热血,阳光,并肩恋爱,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C331,神秘系,腹黑,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C332,冷感,精英感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C333,成熟可靠,理性沉稳,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C334,温柔,成熟可靠,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C335,理性沉稳,神秘系,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C337,强者感,成熟可靠,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C338,热血,少年感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C339,色气,腹黑,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C340,神秘系,脆弱感,救赎感,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C341,阳光,色气,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C342,傲娇,少年感,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C343,理性沉稳,成熟可靠,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C344,精英感,理性沉稳,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C345,神秘系,色气,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C346,阳光,色气,刺激型,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C347,傲娇,成熟可靠,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C348,神秘系,腹黑,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C349,冷感,强者感,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C350,温柔,脆弱感,高依赖,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C351,理性沉稳,神秘系,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C352,强者感,成熟可靠,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→成熟可靠; strict heat threshold,6.7.1
+C353,冷感,少年感,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C354,成熟可靠,色气,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C355,天然,少年感,治愈系,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C357,强者感,成熟可靠,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C358,理性沉稳,温柔,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C359,冷感,精英感,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C360,阳光,天然,治愈系,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C361,热血,少年感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C362,色气,神秘系,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.1_public_roster_fast_track,false,A,identity+mapping+appearance resolved in v6.7.1,6.7.1
+C143,傲娇,热血,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.13_public_roster_completion,false,A,stable identity plus official public character evidence,6.7.13
+C144,温柔,成熟可靠,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.13_public_roster_completion,false,A,stable identity plus official public character evidence,6.7.13
+C145,脆弱感,温柔,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.13_public_roster_completion,false,A,stable identity plus official public character evidence,6.7.13
+C363,傲娇,少年感,高情绪浓度,3,MIGRATION_READY,AUTO_PASS,v6.7.26_user_requested_catalog_expansion,false,A,official public character evidence,6.7.26
+C364,毒舌,热血,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.26_user_requested_catalog_expansion,false,A,official public character evidence,6.7.26
+C365,成熟可靠,阳光,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6.7.26_user_requested_catalog_expansion,false,A,official public character evidence,6.7.26
+C366,温柔,脆弱感,治愈系,3,MIGRATION_READY,AUTO_PASS,v6.7.26_user_requested_catalog_expansion,false,A,official public character evidence,6.7.26
+C367,傲娇,少年感,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→傲娇; strict heat threshold,6.7.34
+C368,腹黑,成熟可靠,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.34_user_requested_chinese_premium_expansion,false,A,official public character evidence,6.7.34
+C369,色气,反差萌,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.34_user_requested_chinese_premium_expansion,false,A,official public character evidence,6.7.34
+C370,温柔,成熟可靠,治愈系,3,MIGRATION_READY,AUTO_PASS,v6.7.34_user_requested_chinese_premium_expansion,false,A,official public character evidence,6.7.34
+C371,傲娇,强者感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.34_user_requested_chinese_premium_expansion,false,A,official public character evidence,6.7.34
+C372,成熟可靠,理性沉稳,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.34_user_requested_chinese_premium_expansion,false,A,official public character evidence,6.7.34
+C373,冷感,成熟可靠,低表达,3,MIGRATION_READY,AUTO_PASS,v6.7.34_user_requested_chinese_premium_expansion,false,A,official public character evidence,6.7.34
+C374,冷感,神秘系,唯一例外,3,MIGRATION_READY,AUTO_PASS,v6.7.35_user_requested_otomate_expansion,false,A,official public character evidence,6.7.35
+C375,阳光,成熟可靠,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.35_user_requested_otomate_expansion,false,A,official public character evidence,6.7.35
+C376,毒舌,冷感,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.35_user_requested_otomate_expansion,false,A,official public character evidence,6.7.35
+C377,理性沉稳,成熟可靠,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6.7.35_user_requested_otomate_expansion,false,A,official public character evidence,6.7.35
+C378,傲娇,腹黑,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.35_user_requested_otomate_expansion,false,A,official public character evidence,6.7.35
+C379,阳光,少年感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.35_user_requested_otomate_expansion,false,A,official public character evidence,6.7.35
+C380,成熟可靠,理性沉稳,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.36_user_requested_otomate_expansion,false,A,official public character evidence,6.7.36
+C381,温柔,脆弱感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.36_user_requested_otomate_expansion,false,A,official public character evidence,6.7.36
+C382,毒舌,理性沉稳,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6.7.36_user_requested_otomate_expansion,false,A,official public character evidence,6.7.36
+C383,天然,神秘系,唯一例外,3,MIGRATION_READY,AUTO_PASS,v6.7.36_user_requested_otomate_expansion,false,A,official public character evidence,6.7.36
+C384,冷感,傲娇,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.36_user_requested_otomate_expansion,false,A,official public character evidence; heat threshold narrowed by human review,6.7.36
+C385,温柔,成熟可靠,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.36_user_requested_otomate_expansion,false,A,official public character evidence,6.7.36
+C386,傲娇,毒舌,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6.7.36_user_requested_otomate_expansion,false,A,official public character evidence,6.7.36
+C387,成熟可靠,精英感,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6.7.36_user_requested_otomate_expansion,false,A,official public character evidence,6.7.36
+C388,冷感,反差萌,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.36_user_requested_otomate_expansion,false,A,official public character evidence,6.7.36
+C389,神秘系,危险系,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.36_user_requested_otomate_expansion,false,A,official public character evidence,6.7.36
+C390,阳光,脆弱感,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.37_user_requested_gs3_expansion,false,A,official public character evidence,6.7.37
+C391,冷感,反差萌,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.37_user_requested_gs3_expansion,false,A,official public character evidence,6.7.37
+C392,阳光,强者感,直球主动,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,A,热血→阳光; strict heat threshold,6.7.37
+C393,阳光,色气,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.37_user_requested_gs3_expansion,false,A,official public character evidence,6.7.37
+C394,理性沉稳,温柔,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6.7.37_user_requested_gs3_expansion,false,A,official public character evidence,6.7.37
+C395,傲娇,毒舌,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.37_user_requested_gs3_expansion,false,A,official public character evidence,6.7.37
+C396,少年感,阳光,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.37_user_requested_gs3_expansion,false,A,official public character evidence,6.7.37
+C397,成熟可靠,温柔,治愈系,3,MIGRATION_READY,AUTO_PASS,v6.7.37_user_requested_gs3_expansion,false,A,official public character evidence,6.7.37
+C398,天然,温柔,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.37_user_requested_gs3_expansion,false,A,official public character evidence,6.7.37
+C399,冷感,精英感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.37_user_requested_gs3_expansion,false,A,official public character evidence,6.7.37
+C400,热血,成熟可靠,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.37_user_requested_gs3_expansion,false,A,official public character evidence,6.7.37
+C401,成熟可靠,温柔,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.39_user_requested_sangoku_rensenki_expansion,false,A,official public character evidence,6.7.39
+C402,理性沉稳,冷感,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.39_user_requested_sangoku_rensenki_expansion,false,A,official public character evidence,6.7.39
+C403,阳光,天然,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.39_user_requested_sangoku_rensenki_expansion,false,A,official public character evidence,6.7.39
+C404,冷感,少年感,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.39_user_requested_sangoku_rensenki_expansion,false,A,official public character evidence,6.7.39
+C405,腹黑,强者感,强占有,3,MIGRATION_READY,AUTO_PASS,v6.7.39_user_requested_sangoku_rensenki_expansion,false,A,official public character evidence,6.7.39
+C406,毒舌,理性沉稳,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6.7.39_user_requested_sangoku_rensenki_expansion,false,A,official public character evidence,6.7.39
+C407,傲娇,少年感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.39_user_requested_sangoku_rensenki_expansion,false,A,official public character evidence,6.7.39
+C408,温柔,神秘系,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.39_user_requested_sangoku_rensenki_expansion,false,A,official public character evidence,6.7.39
+C409,腹黑,神秘系,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.39_user_requested_sangoku_rensenki_expansion,false,A,official public character evidence,6.7.39
+C410,冷感,低表达,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.39_user_requested_sangoku_rensenki_expansion,false,A,official public character evidence,6.7.39
+C411,冷感,危险系,控制型,3,MIGRATION_READY,AUTO_PASS,v6.7.50_user_requested_unlogical_expansion,false,A,official spoiler-safe public character evidence,6.7.50
+C412,冷感,温柔,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.50_user_requested_unlogical_expansion,false,A,official spoiler-safe public character evidence,6.7.50
+C413,成熟可靠,温柔,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.50_user_requested_unlogical_expansion,false,A,official spoiler-safe public character evidence,6.7.50
+C414,温柔,理性沉稳,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6.7.50_user_requested_unlogical_expansion,false,A,official spoiler-safe public character evidence,6.7.50
+C415,阳光,成熟可靠,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.50_user_requested_unlogical_expansion,false,A,official spoiler-safe public character evidence,6.7.50
+C416,成熟可靠,温柔,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C417,腹黑,精英感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C418,阳光,热血,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C419,天然,少年感,治愈系,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C420,神秘系,危险系,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C421,成熟可靠,温柔,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C422,少年感,脆弱感,救赎感,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C423,色气,阳光,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C424,冷感,危险系,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C425,成熟可靠,腹黑,强占有,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C426,热血,阳光,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C427,傲娇,少年感,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C428,温柔,理性沉稳,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C429,神秘系,色气,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C430,成熟可靠,阳光,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C431,神秘系,脆弱感,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C432,强者感,傲娇,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C433,温柔,神秘系,救赎感,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C434,阳光,色气,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C435,理性沉稳,成熟可靠,强守护,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,B,热血→理性沉稳; strict heat threshold,6.7.51
+C436,少年感,脆弱感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C437,冷感,神秘系,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C438,危险系,强者感,控制型,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C439,成熟可靠,精英感,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C440,冷感,危险系,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C441,非人感,神秘系,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C442,神秘系,强者感,唯一例外,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C443,理性沉稳,成熟可靠,强守护,3,MIGRATION_READY,HUMAN_CALIBRATED,human_heat_tag_audit,false,B,热血→理性沉稳; strict heat threshold,6.7.51
+C444,理性沉稳,少年感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C445,腹黑,危险系,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C446,冷感,神秘系,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C447,阳光,脆弱感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C448,阳光,少年感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C449,成熟可靠,腹黑,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C450,温柔,冷感,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C451,温柔,低表达,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C452,毒舌,精英感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C453,色气,反差萌,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C454,理性沉稳,脆弱感,救赎感,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C455,阳光,少年感,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C456,毒舌,成熟可靠,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C457,成熟可靠,温柔,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C458,温柔,低表达,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C459,阳光,热血,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C460,傲娇,少年感,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C461,成熟可靠,冷感,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C462,色气,腹黑,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C463,强者感,成熟可靠,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C464,温柔,理性沉稳,稳定恋爱,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C465,阳光,精英感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C466,傲娇,少年感,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C467,神秘系,腹黑,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,public character evidence,6.7.51
+C468,冷感,脆弱感,救赎感,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C469,阳光,成熟可靠,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C470,神秘系,低表达,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C471,冷感,成熟可靠,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C472,温柔,腹黑,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C473,阳光,色气,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C474,冷感,理性沉稳,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C475,温柔,腹黑,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C476,阳光,天然,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C477,腹黑,危险系,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C478,少年感,神秘系,救赎感,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C479,成熟可靠,强者感,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.51_catalog_expansion,false,B,official public character evidence,6.7.51
+C480,阳光,热血,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,public spoiler-safe character evidence,6.7.52
+C481,温柔,低表达,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,public spoiler-safe character evidence,6.7.52
+C482,色气,危险系,强占有,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,public spoiler-safe character evidence,6.7.52
+C483,神秘系,成熟可靠,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,public spoiler-safe character evidence,6.7.52
+C484,成熟可靠,色气,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,official public character evidence,6.7.52
+C485,精英感,腹黑,刺激型,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,official public character evidence,6.7.52
+C486,强者感,危险系,强占有,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,official public character evidence,6.7.52
+C487,少年感,反差萌,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,official public character evidence,6.7.52
+C488,成熟可靠,神秘系,唯一例外,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,official public character evidence,6.7.52
+C489,阳光,色气,直球主动,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,official public character evidence,6.7.52
+C490,热血,强者感,强守护,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,official public character evidence,6.7.52
+C491,冷感,理性沉稳,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,official public character evidence,6.7.52
+C492,冷感,精英感,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,official public character evidence,6.7.52
+C493,阳光,少年感,陪伴成长,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,official public character evidence,6.7.52
+C494,腹黑,神秘系,宿命感,3,MIGRATION_READY,AUTO_PASS,v6.7.52_user_catalog_expansion,false,B,official public character evidence,6.7.52
+C495,傲娇,阳光,高拉扯,3,MIGRATION_READY,AUTO_PASS,v6.7.53_wataju_expansion,false,A,official spoiler-safe public character evidence,6.7.53
+C496,低表达,脆弱感,慢热,3,MIGRATION_READY,AUTO_PASS,v6.7.53_wataju_expansion,false,A,official spoiler-safe public character evidence,6.7.53
+C497,毒舌,反差萌,欢喜冤家,3,MIGRATION_READY,AUTO_PASS,v6.7.53_wataju_expansion,false,A,official spoiler-safe public character evidence,6.7.53
